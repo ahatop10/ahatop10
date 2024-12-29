@@ -78,4 +78,21 @@ IPO之年
 1. C公司
 2. 梧桐山
 
+## 2015
+
+1. 娃出生
+
+## 2009
+
+1. 住房
+
+## 2007
+
+1. 毕业
+
+## 参考
+
+1. [得到](https://www.dedao.cn/)
+2. [李笑来](https://lixiaolai.com/#/)
+
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

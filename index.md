@@ -6,15 +6,15 @@
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
 
 ```
-转变一下看待人生经历的方式，从计划-完成模式，转变到非终结性的享受过程模式，
-一起享受生活，一起做那些看似日常的事情，这些事情本身就是意义所在；
-那种非计划性的、非终结性的意义，其实不难获得，可以是散步，可以是读书，可以是做饭，
-真正的治疗是我们常说的四个字：“享受当下”，把每一个当下都当作意义的来源去享受。
+从计划-完成模式，转变到非终结性的享受过程模式，
+一起做那些看似日常的事情，这些事情本身就是意义所在；
+“享受当下”，把每一个当下都当作意义的来源去享受。
 
 两条基本原理：
-第一，不要过于执着于“自我”。越是整天想着“我一定要幸福”“我一定要最多的幸福”，
-就越有可能感到不幸、遗憾、悔恨。尝试更多地把注意力转向自我和幸福之外的那些事情本身，
+第一，不要过于执着于“自我”。
+尝试更多地把注意力转向自我和幸福之外的那些事情本身，
 在这些事情中寻找意义，我们反而会感到更加幸福；
+
 第二，我们要去寻找那些本身具有价值，而不是以目标和结果为导向的事情，
 比如享受和家人、朋友共度时光，享受学习新的知识，享受文学、艺术，当然还有哲学思考。
 ```
@@ -43,21 +43,21 @@
 ![](https://github.com/user-attachments/assets/d5e21d89-9034-4afa-b727-275584d023a3)
 > 创造性工作
 
-1. 司法考试
-2. 英语口语
+1. Law Exam
+2. English
 
 ## 2024
 
 ![](https://github.com/user-attachments/assets/810c7bd6-01c2-4231-9baf-ff71168f1b34)
 
-———大战检验
+———battle
 
 1. 世纪公园
 2. 玉龙雪山
 3. 此时此地
 4. 此人此事
-5. 香港优才
-6. 深圳专家库
+5. HK
+6. SZ EX
 7. 毕业20年
 
 ## 2023
@@ -122,23 +122,28 @@ IPO之年
 
 ![](https://github.com/user-attachments/assets/ffe49beb-816a-4491-a8a6-780d1c2bc312)
 
-1. 娃出生
+1. 变三人
+
+## 2012
+
+1. 入围城
 
 ## 2009
 
 ![图片](https://github.com/user-attachments/assets/e0dcbf71-72bc-41e2-9c6d-fdcadf4d8a72)
 
-1. 住房
+1. 有了窝
 
 ## 2007
 
 ![](https://github.com/user-attachments/assets/d17cce16-7883-4353-8693-f3cb24a693fc)
 
-1. 毕业
+1. 出象牙塔
 
 ## 参考
 
 1. [得到](https://www.dedao.cn/)
 2. [李笑来](https://lixiaolai.com/#/)
+3. [Get笔记](https://www.biji.com/)
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

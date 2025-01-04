@@ -130,7 +130,7 @@ IPO之年
 
 ## 2009
 
-![图片](https://github.com/user-attachments/assets/e0dcbf71-72bc-41e2-9c6d-fdcadf4d8a72)
+![](https://github.com/user-attachments/assets/e0dcbf71-72bc-41e2-9c6d-fdcadf4d8a72)
 
 1. 有了窝
 

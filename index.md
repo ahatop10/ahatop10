@@ -1,7 +1,8 @@
 
 
 ![](https://github.com/user-attachments/assets/8987e9bc-a61b-41ac-91a7-c993ec312fa9)
-> Go go go...
+![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
+> Go go go...面朝大海，心暖花开
 
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
 
@@ -46,6 +47,9 @@
 1. Law Exam
 2. English
 
+每天一本书
+get笔记
+
 ## 2024
 
 ![](https://github.com/user-attachments/assets/810c7bd6-01c2-4231-9baf-ff71168f1b34)
@@ -59,6 +63,7 @@
 5. HK
 6. SZ EX
 7. 毕业20年
+8. “9.24”新政
 
 ## 2023
 
@@ -67,6 +72,7 @@
 1. 格局高度
 2. 商版域
 3. 留仙洞
+4. Level ⬆️
 
 ## 2022
 
@@ -87,7 +93,8 @@
 
 ![](https://github.com/user-attachments/assets/89d2dbc9-cae2-44dd-833c-ea848e183d9d)
 
-SEP突破
+1. SEP突破
+2. Level ⬆️
 
 ## 2019
 

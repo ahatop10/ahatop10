@@ -1,6 +1,7 @@
 
-
+![](https://github.com/user-attachments/assets/c6829a5c-853d-41bb-921c-a7a386647362)
 ![](https://github.com/user-attachments/assets/8987e9bc-a61b-41ac-91a7-c993ec312fa9)
+![](https://github.com/user-attachments/assets/6e529edf-a082-42c9-a312-e4f3c6e27d42)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > Go go go...面朝大海，心暖花开
 
@@ -12,6 +13,13 @@
 “享受当下”，把每一个当下都当作意义的来源去享受
 有限资源无限游戏，评估选择、行动调整，概率最大化
 ```
+
+![](https://github.com/user-attachments/assets/a5ef63d1-5245-46bb-addc-251c991222cb)
+![](https://github.com/user-attachments/assets/215b568c-07b0-4904-b932-9235e2a0b5fc)
+![](https://github.com/user-attachments/assets/9e822374-ffe3-4be3-ac53-3784d02e14c6)
+![](https://github.com/user-attachments/assets/349636b2-ce13-4ea2-bd8f-a205bbfcf1c8)
+![](https://github.com/user-attachments/assets/3bc60246-8e18-42d7-8dcd-0a6ae10012b9)
+
 
 ## 十年习惯
 

@@ -20,6 +20,30 @@
 ![](https://github.com/user-attachments/assets/349636b2-ce13-4ea2-bd8f-a205bbfcf1c8)
 ![](https://github.com/user-attachments/assets/3bc60246-8e18-42d7-8dcd-0a6ae10012b9)
 
+## 原创体系
+
+**HWPM**<sup>TM</sup> 
+
+**登山模型**<sup>TM</sup> 
+
+**三步六法**<sup>TM</sup> 
+
+**五位一体**<sup>TM</sup> 
+
+**背景目标、分析落实，结论建议**<sup>TM</sup> 
+
+## 运用体系
+
+**MVP**<sup>TM</sup> 
+
+**WWH**<sup>TM</sup> 
+
+**贝叶斯模型**<sup>TM</sup> 
+
+**高效能人士七个习惯**<sup>TM</sup> 
+
+**复利公式**：收入=本金*(1+利率)<sup>时长</sup>
+
 
 ## 十年习惯
 

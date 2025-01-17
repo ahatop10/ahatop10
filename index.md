@@ -6,7 +6,7 @@
 > Go go go...面朝大海，心暖花开
 
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
-> 真诚、善良及美丽的作品
+> 真诚、善良及美丽的作品，initiative（主动）、integrity（正直）、intelligence（智慧）
 
 ```
 从计划-完成模式，转变到非终结性的享受过程模式

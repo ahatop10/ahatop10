@@ -75,9 +75,13 @@
 ## 经典产品
 
 ![](https://github.com/user-attachments/assets/459f6e9a-c984-4e30-8870-ea6f8e2131e2)
-> YOTA3
+![](https://github.com/user-attachments/assets/17f46e05-3f06-4ea2-9dbd-a803eb1401c9)
+> [YOTA3](https://news.mydrivers.com/1/549/549071.htm)
 
 ![](https://github.com/user-attachments/assets/413a77e2-0629-4abb-b8fd-d0d91d87e69e)
-> 坚果R2
+![](https://github.com/user-attachments/assets/7d33585b-bdc7-46e4-8f94-735b2ad33823)
+![](https://github.com/user-attachments/assets/28538d21-d8ba-44dc-8c2d-527ff449808f)
+![](https://github.com/user-attachments/assets/d48df22e-fdc5-4c9d-9405-e5c429cdc8b0)
+> [坚果R2](https://www.smartisan.com/r2/)
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

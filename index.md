@@ -72,7 +72,7 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 ![](https://github.com/user-attachments/assets/cb550379-a22c-45fa-b806-9ba1dcf23623)
 ![](https://github.com/user-attachments/assets/22ce74b6-5155-43a0-819a-ec4712dd36b8)
 ![](https://github.com/user-attachments/assets/3c58b536-7645-404d-b037-60f8473db4bf)
-> 2025: *Law Exam、English and Keep fit**
+> 2025: **Law Exam、English and Keep fit**
 
 ## Products
 
@@ -87,6 +87,13 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 > [R2](https://www.smartisan.com/r2/)
 
 ## Invest
+
+大道至简，守正出奇：<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
+
+```
+股市赚钱不容易，需要资本，认知、时间，及了解及克服人性弱点等，但也不是遥不可及
+市场短期是投票器，长期是称重机，股价的最后表现是取决于且只取决于公司的基本面的
+```
 
 ### Yes
 
@@ -120,5 +127,10 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 4. [Bi Ji](https://www.biji.com/)
 5. [Deep Seek](https://chat.deepseek.com/)
 6. [Meta So](https://metaso.cn/)
+
+| Year  | Month | Week | Day |
+| ----- |  :------:  |  :------:  | :------:  |
+| 2025     | 1       | 4         | 25         | 
+| 2025     | 1       | 4         | 26         | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

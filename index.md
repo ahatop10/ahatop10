@@ -44,6 +44,8 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 
 **WWH**<sup>TM</sup>
 
+**RTFM**<sup>TM</sup>
+
 **Bayesian model**<sup>TM</sup>
 
 **Seven habits of highly effective people**<sup>TM</sup>
@@ -90,6 +92,9 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 
 1. <ins>**Buying stocks means buying a company**</ins>
 2. <ins>**买赚钱的公司**</ins>
+3. 关注核心指标：赚钱不赚钱，市盈率高不高，行业前景好不好，有没有护城河，分不分红，价格高点还是低点
+4. 买入的成本尽可能地低
+5. 动态调整候选资源池及持有资产配置
 
 ### No
 
@@ -97,11 +102,23 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 2. ~~不买自己熟悉的行业及公司~~
 3. ~~不要因为价格便宜而买~~
 
+### Stocks
+
+关注的赛道：通讯、新能源、互联网、电商、半导体、AI
+
+* [x] XiaoMi
+* [x] Tencent
+* [x] SMIC
+* [ ] MeiTu
+* [ ] BinGo
+
 ## Reference
 
 1. [Ruan Yifeng](https://ruanyifeng.com/)
 2. [Li Xiaolai](https://lixiaolai.com/)
 3. [De Dao](https://www.dedao.cn/)
 4. [Bi Ji](https://www.biji.com/)
+5. [Deep Seek](https://chat.deepseek.com/)
+6. [Meta So](https://metaso.cn/)
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

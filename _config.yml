@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0 #minimal@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0 #minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
@@ -13,4 +13,4 @@ plugins:
 title: Top
 description: One
 show_downloads: false
-logo: https://github.com/user-attachments/assets/51c29f7f-01c6-42fb-8194-5b0ec4372f42
+logo: https://github.com/user-attachments/assets/bcc32321-0ca9-49ec-a795-fbbcc68841e5 #https://github.com/user-attachments/assets/51c29f7f-01c6-42fb-8194-5b0ec4372f42

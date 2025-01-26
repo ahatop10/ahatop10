@@ -19,7 +19,9 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 ![](https://github.com/user-attachments/assets/9e822374-ffe3-4be3-ac53-3784d02e14c6)
 ![](https://github.com/user-attachments/assets/349636b2-ce13-4ea2-bd8f-a205bbfcf1c8)
 ![](https://github.com/user-attachments/assets/3bc60246-8e18-42d7-8dcd-0a6ae10012b9)
-> <a href="#end">Goto the End.</a>
+> <a href="#end">Goto the End.
+
+</a> <font color='red'>Tutor</font>[^People]
 
 ## Original System
 
@@ -31,11 +33,26 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 
 **HWPM**<sup>TM</sup>
 
+> Health
+>> Wisdom
+>>> Profession
+>>>> Meaning
+
 **Mountain climbing model**<sup>TM</sup>
+
+![](https://github.com/user-attachments/assets/27bb3bbe-2cae-4c9b-98b2-66f70f066a37)
+
 
 **Three steps and six methods**<sup>TM</sup>
 
 **Five in one**<sup>TM</sup>
+
+> User 
+>> Technology
+>> Product
+>> Experience
+>> Patent
+>>> Standard 
 
 **Background goals, analysis and implementation, conclusions and suggestions**<sup>TM</sup>
 
@@ -167,4 +184,5 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 
+[^People]:Here
 <p id="end">The End.</p>

@@ -3,15 +3,15 @@
 ![](https://github.com/user-attachments/assets/8987e9bc-a61b-41ac-91a7-c993ec312fa9)
 ![](https://github.com/user-attachments/assets/6e529edf-a082-42c9-a312-e4f3c6e27d42)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-> Go go go...面朝大海，心暖花开
+> <ins>**Go go go**</ins>...  **Facing the sea, with a warm heart and blooming flowers**
 
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
-> 真诚、善良及美丽的作品，initiative（主动）、integrity（正直）、intelligence（智慧）
+> Sincerity, kindness and beautiful works, initiative, integrity and intelligence
 
 ```
-从计划-完成模式，转变到非终结性的享受过程模式
-“享受当下”，把每一个当下都当作意义的来源去享受
-有限资源无限游戏，评估选择、行动调整，概率最大化
+From the planning-completion mode, to the non-terminal enjoyment process mode
+"Enjoy the present moment", enjoy every moment as a source of meaning
+Limited resources, unlimited games, evaluate choices, adjust actions, and maximize probability
 ```
 
 ![](https://github.com/user-attachments/assets/a5ef63d1-5245-46bb-addc-251c991222cb)
@@ -20,59 +20,59 @@
 ![](https://github.com/user-attachments/assets/349636b2-ce13-4ea2-bd8f-a205bbfcf1c8)
 ![](https://github.com/user-attachments/assets/3bc60246-8e18-42d7-8dcd-0a6ae10012b9)
 
-## 原创体系
+## Original System
 
-**此时此地，此人此事**<sup>TM</sup> 
+**Here and now, this person and this matter**<sup>TM</sup>
 
-**理性、沉浸、当下**<sup>TM</sup> 
+**Rationality, immersion, present**<sup>TM</sup>
 
-**少有，正确及价值之路**<sup>TM</sup> 
+**Rare, correct and valuable path**<sup>TM</sup>
 
-**HWPM**<sup>TM</sup> 
+**HWPM**<sup>TM</sup>
 
-**登山模型**<sup>TM</sup> 
+**Mountain climbing model**<sup>TM</sup>
 
-**三步六法**<sup>TM</sup> 
+**Three steps and six methods**<sup>TM</sup>
 
-**五位一体**<sup>TM</sup> 
+**Five in one**<sup>TM</sup>
 
-**背景目标、分析落实，结论建议**<sup>TM</sup> 
+**Background goals, analysis and implementation, conclusions and suggestions**<sup>TM</sup>
 
-## 运用体系
+## Application System
 
-**MVP**<sup>TM</sup> 
+**MVP**<sup>TM</sup>
 
-**WWH**<sup>TM</sup> 
+**WWH**<sup>TM</sup>
 
-**贝叶斯模型**<sup>TM</sup> 
+**Bayesian model**<sup>TM</sup>
 
-**高效能人士七个习惯**<sup>TM</sup> 
+**Seven habits of highly effective people**<sup>TM</sup>
 
-**复利公式**：收入=本金*(1+利率)<sup>时长</sup>
+**Compound interest formula**: Income = principal*(1+interest rate)<sup>Duration</sup>
 
 
-## 十年习惯
+## Habits
 
 ![](https://github.com/user-attachments/assets/a156fb7b-9bd3-41f2-83bd-ec545f0076ae)
-> 创造性工作
+> Creative Work
 
-1. 冥想
-2. 笔记
-3. 徒步
-4. 复盘
-5. 体系
-6. 专利
-7. 项目
-8. 团队
-9. 阅读
-10. 旅行
+1. Meditation
+2. Note
+3. Walk
+4. Review
+5. Sisytem
+6. Patent
+7. Project
+8. Team
+9. Reading
+10. Journey
 
 ![](https://github.com/user-attachments/assets/cb550379-a22c-45fa-b806-9ba1dcf23623)
 ![](https://github.com/user-attachments/assets/22ce74b6-5155-43a0-819a-ec4712dd36b8)
 ![](https://github.com/user-attachments/assets/3c58b536-7645-404d-b037-60f8473db4bf)
-> 2025：**法考、英语及塑形**
+> 2025: *Law Exam、English and Keep fit**
 
-## 经典产品
+## Products
 
 ![](https://github.com/user-attachments/assets/459f6e9a-c984-4e30-8870-ea6f8e2131e2)
 ![](https://github.com/user-attachments/assets/17f46e05-3f06-4ea2-9dbd-a803eb1401c9)
@@ -82,6 +82,26 @@
 ![](https://github.com/user-attachments/assets/7d33585b-bdc7-46e4-8f94-735b2ad33823)
 ![](https://github.com/user-attachments/assets/28538d21-d8ba-44dc-8c2d-527ff449808f)
 ![](https://github.com/user-attachments/assets/d48df22e-fdc5-4c9d-9405-e5c429cdc8b0)
-> [坚果R2](https://www.smartisan.com/r2/)
+> [R2](https://www.smartisan.com/r2/)
+
+## Invest
+
+### Yes
+
+1. <ins>**Buying stocks means buying a company**</ins>
+2. <ins>**买赚钱的公司**</ins>
+
+### No
+
+1. ~~No borrowing for investment~~
+2. ~~不买自己熟悉的行业及公司~~
+3. ~~不要因为价格便宜而买~~
+
+## Reference
+
+1. [Ruan Yifeng](https://ruanyifeng.com/)
+2. [Li Xiaolai](https://lixiaolai.com/)
+3. [De Dao](https://www.dedao.cn/)
+4. [Bi Ji](https://www.biji.com/)
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

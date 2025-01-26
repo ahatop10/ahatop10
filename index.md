@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 > Sincerity, kindness and beautiful works, initiative, integrity and intelligence
 
 
-* From the planning-completion mode, to the non-terminal enjoyment process mode
-* "Enjoy the present moment", enjoy every moment as a source of meaning
-* Limited resources, unlimited games, evaluate choices, adjust actions, and maximize probability
+> From the planning-completion mode, to the non-terminal enjoyment process mode
+> "Enjoy the present moment", enjoy every moment as a source of meaning
+> Limited resources, unlimited games, evaluate choices, adjust actions, and maximize probability
 
 
 ![](https://github.com/user-attachments/assets/a5ef63d1-5245-46bb-addc-251c991222cb)
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/9e822374-ffe3-4be3-ac53-3784d02e14c6)
 ![](https://github.com/user-attachments/assets/349636b2-ce13-4ea2-bd8f-a205bbfcf1c8)
 ![](https://github.com/user-attachments/assets/3bc60246-8e18-42d7-8dcd-0a6ae10012b9)
-> <a href="#end">Goto the End.
+> <a href="#end">Goto the End.</a> 
 
-</a> <font color='red'>Tutor</font>[^People]
+<font color='red'>Tutor</font>[^People]
 
 ## Original System
 
@@ -124,15 +124,15 @@ Here are some ideas to get you started:
 
 > The great truth is simple, and keeping to the right path is extraordinary: <ins>Income = Capital * (1 + interest rate) <sup>Duration</sup></ins>
 
-- It is not easy to make money in the stock market
-- Invest requires capital, cognition, time, and understanding and overcoming human weaknesses, but it is not out of reach
-- The market is a voting machine in the short term and a weighing machine in the long term.
-- The final performance of the stock price depends on and only depends on the fundamentals of the company
-- The basic skills of investment are actually to understand the company and the business, nothing else
-- Do the right thing and do things right
-- Price is what you pay, value is what you get
-- A gentleman loves money, and he gets it in a "way", and "way" is his duty
-- Taste the sweetness, eat the bitterness, things teach people, and actual combat brings true knowledge
+1. It is not easy to make money in the stock market
+2. Invest requires capital, cognition, time, and understanding and overcoming human weaknesses, but it is not out of reach
+3. The market is a voting machine in the short term and a weighing machine in the long term.
+4. The final performance of the stock price depends on and only depends on the fundamentals of the company
+5. The basic skills of investment are actually to understand the company and the business, nothing else
+6. Do the right thing and do things right
+7. Price is what you pay, value is what you get
+8. A gentleman loves money, and he gets it in a "way", and "way" is his duty
+9. Taste the sweetness, eat the bitterness, things teach people, and actual combat brings true knowledge
 
 ### Yes
 

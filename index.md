@@ -1,3 +1,18 @@
+<!--
+**ahatop10/ahatop10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 ![](https://github.com/user-attachments/assets/c6829a5c-853d-41bb-921c-a7a386647362)
 ![](https://github.com/user-attachments/assets/8987e9bc-a61b-41ac-91a7-c993ec312fa9)
@@ -5,14 +20,15 @@
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > <ins>**Go go go**</ins>...  **Facing the sea, with a warm heart and blooming flowers**
 
+
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
 > Sincerity, kindness and beautiful works, initiative, integrity and intelligence
 
-```
-From the planning-completion mode, to the non-terminal enjoyment process mode
-"Enjoy the present moment", enjoy every moment as a source of meaning
-Limited resources, unlimited games, evaluate choices, adjust actions, and maximize probability
-```
+
+* From the planning-completion mode, to the non-terminal enjoyment process mode
+* "Enjoy the present moment", enjoy every moment as a source of meaning
+* Limited resources, unlimited games, evaluate choices, adjust actions, and maximize probability
+
 
 ![](https://github.com/user-attachments/assets/a5ef63d1-5245-46bb-addc-251c991222cb)
 ![](https://github.com/user-attachments/assets/215b568c-07b0-4904-b932-9235e2a0b5fc)
@@ -106,60 +122,62 @@ Limited resources, unlimited games, evaluate choices, adjust actions, and maximi
 
 ## Invest
 
-大道至简，守正出奇：<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
+> The great truth is simple, and keeping to the right path is extraordinary: <ins>Income = Capital * (1 + interest rate) <sup>Duration</sup></ins>
 
-```
-股市赚钱不容易，需要资本，认知、时间，及了解及克服人性弱点等，但也不是遥不可及
-市场短期是投票器，长期是称重机，股价的最后表现是取决于且只取决于公司的基本面的
-投资的基本功其实就是看懂企业，看懂生意，无他
-做对的事情和把事情做对
-价格是你所付出的，价值是你所得到的
-君子爱财，取之有“道”，“道”就是本分
-尝到甜头，吃到苦头，事教人，实战出真知
-
-```
+- It is not easy to make money in the stock market
+- Invest requires capital, cognition, time, and understanding and overcoming human weaknesses, but it is not out of reach
+- The market is a voting machine in the short term and a weighing machine in the long term.
+- The final performance of the stock price depends on and only depends on the fundamentals of the company
+- The basic skills of investment are actually to understand the company and the business, nothing else
+- Do the right thing and do things right
+- Price is what you pay, value is what you get
+- A gentleman loves money, and he gets it in a "way", and "way" is his duty
+- Taste the sweetness, eat the bitterness, things teach people, and actual combat brings true knowledge
 
 ### Yes
 
 1. <ins>**Buying stocks means buying a company**</ins>
-2. <ins>**买赚钱的公司**</ins>
-3. 关注核心指标：赚钱不赚钱，市盈率高不高，行业前景好不好，有没有护城河，分不分红，价格高点还是低点
-4. 买入的成本尽可能地低
-5. 动态调整候选资源池及持有资产配置
-6. 跟镜子里的自己讨论，而不是从众
-7. 投资总是有机会的，不用着急，也急不来
-8. 要理性，要做对的事情
-9. 要耐心等待自己能力圈内出现投资目标，包括在能力圈内积极寻找
-10. 找到好公司然后"buy to ke­ep"
-11. Ri­g­ht Bu­s­i­n­e­ss + Ri­g­ht Pe­o­p­le + Ri­g­ht Pr­i­ce
-12. 伟大企业就像古董，越来越值钱，商业的本质，相关利益方的合作互利
-13. 一个杰出的企业可以预计到，将来可能会发生什么，但不一定知道何时会发生
-14. 伟大企业：在25年或30年仍然能够保持其伟大企业地位的企业
-15. 喜欢一个具有持续竞争优势并且由一群既能干又全心全意为股东服务的人来管理的企业
-16. 当人们忘记“二加二等于四”这种最基本的常识时，就该是脱手离场的时候了
-17. 多样化是无知的保护伞
-18. 所谓的财富自由并不是拥有很多钱，而是不为钱做自己不喜欢的事情
+2. <ins>**Buy profitable companies**</ins>
+3. <ins>**Focus on core indicators: whether it makes money**</ins>
+4. whether the price-earnings ratio is high, whether the industry prospects are good, whether there is a moat,
+5. whether there is a dividend, whether the price is high or low
+6. The cost of buying is as low as possible
+7. Dynamically adjust the candidate resource pool and the allocation of held assets
+8. Discuss with yourself in the mirror, rather than following the crowd
+9. There are always opportunities for investment, no need to rush, and you can't rush
+10. Be rational and do the right thing
+11. Be patient and wait for investment targets to appear in your circle of competence, including actively looking for them in your circle of competence
+12. Find a good company and then "buy to keep"
+13. Right Business + Right People + Right Price
+14. Great companies are like antiques, becoming more and more valuable.
+15.  The essence of business is the cooperation and mutual benefit of relevant stakeholders
+16. An outstanding company can predict what may happen in the future, but it does not necessarily know when it will happen
+17. Great companies: companies that can still maintain their great status in 25 or 30 years
+18. I like a company that has a sustainable competitive advantage and is managed by a group of people who are both capable and wholeheartedly serve shareholders
+19. When people forget the most basic common sense that "two plus two equals four", it is time to get out of the market
+20. Diversification is a protective umbrella for ignorance
+21. The so-called financial freedom is not to have a lot of money, but not to do things you don't like for money
 
 ### No
 
 1. ~~No borrowing for investment~~
-2. ~~不买自己熟悉的行业及公司~~
-3. ~~不要因为价格便宜而买~~
-4. 便宜的东西经常是更贵的，免费最贵
-5. 如果你已经在坑里那就别再往下挖了
-6. 大概智商高的人未必知道自己的能力圈边界在哪里
-7. 智商高的人可能往往容易越出自己的能力圈
-8. 即使能力圈很大的人，在能力圈外也是会很惨的
-9. We don't kn­ow wh­at we don't kn­ow.
-10. 没有一个能计算出企业内在价值的公式。你得真的懂这个企业
-11. 今天的投资者不是从昨天的增长中获利的，所以不能根据过去的pe或peg来投资
-12. 产品要有差异化，不然最后就是惨烈的价格竞争
-13. 不想以最便宜的价格买最糟糕的家具，要按合理的价格买最好的家具
-14. 在错误的道路上，奔跑也没有用。
+2. ~~Don't buy industries and companies you are familiar with~~
+3. ~~Don't buy just because the price is cheap~~
+4. Cheap things are often more expensive, and free is the most expensive
+5. If you are already in a pit, don't dig any further
+6. People with high IQs may not know where the boundaries of their circle of competence are
+7. People with high IQs may often go beyond their circle of competence
+8. Even people with a large circle of competence will be miserable outside their circle of competence
+9. We don't know what we don't know.
+10. There is no formula to calculate the intrinsic value of a company. You have to really understand the company
+11. Today's investors do not profit from yesterday's growth, so they cannot invest based on past PE or PEG
+12. Products must be differentiated, otherwise there will be fierce price competition in the end
+13. Don't want to buy the worst furniture at the cheapest price, buy the best furniture at a reasonable price
+14. Running on the wrong path is useless.
 
 ### Stocks
 
-关注的赛道：通讯、新能源、互联网、电商、半导体、AI
+Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductors, AI
 
 * [x] XiaoMi
 * [x] Tencent

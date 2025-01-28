@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github.com/user-attachments/assets/c6829a5c-853d-41bb-921c-a7a386647362)
-![](https://github.com/user-attachments/assets/8987e9bc-a61b-41ac-91a7-c993ec312fa9)
 ![](https://github.com/user-attachments/assets/6e529edf-a082-42c9-a312-e4f3c6e27d42)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-![](https://github.com/user-attachments/assets/4eb6097a-2dda-48e6-b7b1-50952a6292cb)
 > <ins>**Go go go**</ins>...  **Facing the sea, with a warm heart and blooming flowers**
 
 

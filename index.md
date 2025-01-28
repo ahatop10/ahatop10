@@ -117,6 +117,11 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/91b672a3-8868-4aaa-bb23-e13927ddc520)
 > [iPhone16Pro](https://www.apple.com.cn/iphone-16-pro/)
 
+![](https://github.com/user-attachments/assets/a3e3deae-7a69-47e6-b906-667a957c6fc7)
+![](https://github.com/user-attachments/assets/4acad2d2-0ebc-4166-a82b-672a8efe9fb8)
+![](https://github.com/user-attachments/assets/0a693f2b-afe3-4e83-a265-e186f739f580)
+> [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-pro-space-edition/)
+
 ![](https://github.com/user-attachments/assets/459f6e9a-c984-4e30-8870-ea6f8e2131e2)
 ![](https://github.com/user-attachments/assets/17f46e05-3f06-4ea2-9dbd-a803eb1401c9)
 > [YOTA3](https://news.mydrivers.com/1/549/549071.htm)

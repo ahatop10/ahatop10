@@ -117,6 +117,17 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/91b672a3-8868-4aaa-bb23-e13927ddc520)
 > [iPhone16Pro](https://www.apple.com.cn/iphone-16-pro/)
 
+![](https://github.com/user-attachments/assets/28fa1e31-47a2-407f-9183-6d8f7cc2f08c)
+![](https://github.com/user-attachments/assets/6705faad-9576-4b7a-88a1-dfb6727fc1b7)
+![](https://github.com/user-attachments/assets/b45b11c2-f3bc-4690-9b84-67358a2a0d00)
+> [HUAWEI Mate 60 RS 非凡大师](https://consumer.huawei.com/cn/phones/mate60-rs-ultimate-design/)
+
+![](https://github.com/user-attachments/assets/83bbd88b-dcd4-4219-935f-a2213e50553b)
+![](https://github.com/user-attachments/assets/f8b0fbfa-fd55-4c2e-9080-97e064789238)
+![](https://github.com/user-attachments/assets/02300c04-32dd-491d-a68b-a83fe5a11d8a)
+![](https://github.com/user-attachments/assets/d8158988-22f8-41f9-915a-701337b4fce8)
+> [HUAWEI Mate XT 非凡大师](https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/) 
+
 ![](https://github.com/user-attachments/assets/a3e3deae-7a69-47e6-b906-667a957c6fc7)
 ![](https://github.com/user-attachments/assets/4acad2d2-0ebc-4166-a82b-672a8efe9fb8)
 ![](https://github.com/user-attachments/assets/0a693f2b-afe3-4e83-a265-e186f739f580)
@@ -225,6 +236,7 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 | 2025     | 1       | 4         | 26         | 
 | 2025     | 1       | 4         | 27         | 
 | 2025     | 1       | 4         | 28         | 
+| 2025     | 1       | 4         | 29         | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 

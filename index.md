@@ -122,6 +122,17 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/0a693f2b-afe3-4e83-a265-e186f739f580)
 > [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-pro-space-edition/)
 
+![](https://github.com/user-attachments/assets/57ec31fd-40ce-4b57-b84c-b4df2c1f5952)
+![](https://github.com/user-attachments/assets/433a4c1d-fbee-435e-bff1-a20bc7786c0c)
+![](https://github.com/user-attachments/assets/870bf764-52de-4854-82e9-81fa9792cbd0)
+![](https://github.com/user-attachments/assets/f32ce261-aa1f-4122-84e9-cd1333151897)
+> [AirPods Pro 2](https://www.apple.com.cn/airpods-pro/)
+
+![](https://github.com/user-attachments/assets/96852e84-dc26-4996-b4e9-ceb023d51f95)
+![](https://github.com/user-attachments/assets/a2a1e0dd-bf66-4d73-9ba6-62790cb90cd1)
+![](https://github.com/user-attachments/assets/d5f4e64d-f57c-4974-b845-61121ce43643)
+> [MacBook Air](https://www.apple.com.cn/macbook-air/)
+
 ![](https://github.com/user-attachments/assets/459f6e9a-c984-4e30-8870-ea6f8e2131e2)
 ![](https://github.com/user-attachments/assets/17f46e05-3f06-4ea2-9dbd-a803eb1401c9)
 > [YOTA3](https://news.mydrivers.com/1/549/549071.htm)

@@ -188,6 +188,7 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 * [x] XiaoMi
 * [x] Tencent
 * [x] SMIC
+* [x] Transsion 
 * [ ] MeiTu
 * [ ] BinGo
 
@@ -206,6 +207,7 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 | 2025     | 1       | 4         | 25         | 
 | 2025     | 1       | 4         | 26         | 
 | 2025     | 1       | 4         | 27         | 
+| 2025     | 1       | 4         | 28         | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 

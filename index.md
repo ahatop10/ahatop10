@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 ![](https://github.com/user-attachments/assets/4936b490-5100-4c26-8e5b-584bba4c3177)
 ![](https://github.com/user-attachments/assets/45b1659c-fb48-47c9-a783-542190e5d11d)
-> <ins>**Go go go**</ins>...  **Facing the sea, with a warm heart and blooming flowers**
+> <ins>**Go go go**</ins>... **Facing the sea, with a warm heart and blooming flowers**
 
 
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
@@ -183,7 +183,7 @@ Here are some ideas to get you started:
 12. Find a good company and then "buy to keep"
 13. Right Business + Right People + Right Price
 14. Great companies are like antiques, becoming more and more valuable.
-15.  The essence of business is the cooperation and mutual benefit of relevant stakeholders
+15. The essence of business is the cooperation and mutual benefit of relevant stakeholders
 16. An outstanding company can predict what may happen in the future, but it does not necessarily know when it will happen
 17. Great companies: companies that can still maintain their great status in 25 or 30 years
 18. I like a company that has a sustainable competitive advantage and is managed by a group of people who are both capable and wholeheartedly serve shareholders
@@ -210,6 +210,33 @@ Here are some ideas to get you started:
 
 ### Stocks
 
+1. 中国A股：早盘集合竞价9:15-9:25，正式交易9:30-11:30，午盘交易13:00-15:00，尾盘集合竞价14:57-15:00
+2. 香港H股：早市9:30-12:00，午市13:00-16:00
+3. 美股：夏令时21:30开盘，次日凌晨4:00收盘；冬令时22:30开盘，次日凌晨5:00收盘
+
+> 最终确定的集合竞价价格将作为股票的开盘价。如果集合竞价未能形成有效价格，则会进入连续竞价阶段继续交易
+
+> 在集合竞价阶段，9:20至9:25这一时间段内，所有挂单都会被一次性撮合成交，最终形成股票的开盘价
+
+> 在集合竞价阶段的9:20至9:25不允许撤单的主要目的是为了确保开盘价的公平性、稳定性和透明性，同时避免市场秩序混乱和操纵行为的发生 
+
+> 集合竞价旨在实现开盘价的最大成交量和公平性，同时为投资者提供透明的市场信息，确保交易的公正性和效率
+
+> 夏令时和冬令时的调整对全球投资者尤其是中国投资者有重要影响，因为这会改变与美股市场的时差，从而影响交易计划和策略
+
+> 美股的夏令时和冬令时是根据美国实行的夏令时（DST，Daylight Saving Time）制度而调整的交易时间安排
+
+> 夏令时时间范围：每年从3月的第二个星期日开始，至11月的第一个星期日结束；
+> 开盘时间：美股交易时间提前一小时，例如北京时间晚上9:30开盘；
+> 收盘时间：美股交易时间提前一小时，例如北京时间凌晨4:00收盘。
+
+> 冬令时时间范围：每年从11月的第一个星期日开始，至次年3月的第二个星期日结束；
+> 开盘时间：美股交易时间延后一小时，例如北京时间晚上10:30开盘；
+> 收盘时间：美股交易时间延后一小时，例如北京时间凌晨5:00收盘。
+
+> 美股的盘前交易和盘后交易机制是美国股市在正常交易时段之外提供的一种特殊交易安排
+> 旨在为投资者提供更多的市场参与机会，并帮助他们应对突发事件或重要信息的披露
+
 Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductors, AI
 
 * [x] XiaoMi
@@ -229,17 +256,18 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 6. [Meta So](https://metaso.cn/)
 7. [Perplexity](https://www.perplexity.ai/)
 
-| Year  | Month | Week | Day |
-| ----- |  :------:  |  :------:  | :------:  |
-| 2025     | 1       | 4         | 25         | 
-| 2025     | 1       | 4         | 26         | 
-| 2025     | 1       | 4         | 27         | 
-| 2025     | 1       | 4         | 28         | 
-| 2025     | 1       | 4         | 29         | 
-| 2025     | 1       | 4         | 30         | 
-| 2025     | 1       | 4         | 31         | 
+| Year | Month | Week | Day |
+| ----- | :------: | :------: | :------: |
+| 2025 | 1 | 4 | 25 | 
+| 2025 | 1 | 4 | 26 | 
+| 2025 | 1 | 4 | 27 | 
+| 2025 | 1 | 4 | 28 | 
+| 2025 | 1 | 4 | 29 | 
+| 2025 | 1 | 4 | 30 | 
+| 2025 | 1 | 4 | 31 | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 
 [^People]:Here
 <p id="end">The End.</p>
+

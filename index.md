@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ![](https://github.com/user-attachments/assets/6e529edf-a082-42c9-a312-e4f3c6e27d42)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-![](https://github.com/user-attachments/assets/4936b490-5100-4c26-8e5b-584bba4c3177)
 ![](https://github.com/user-attachments/assets/45b1659c-fb48-47c9-a783-542190e5d11d)
 > <ins>**Go go go**</ins>... **Facing the sea, with a warm heart and blooming flowers**
 
@@ -265,6 +264,7 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 | 2025 | 1 | 4 | 29 | 
 | 2025 | 1 | 4 | 30 | 
 | 2025 | 1 | 4 | 31 | 
+| 2025 | 2 | 1 | 1  | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 

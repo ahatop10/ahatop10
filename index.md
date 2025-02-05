@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 **HWPM**<sup>TM</sup>
 
-> Health
->> Wisdom
->>> Profession
 >>>> Meaning
+>>> Profession
+>> Wisdom
+> Health
 
 **Mountain climbing model**<sup>TM</sup>
 
@@ -154,22 +154,22 @@ Here are some ideas to get you started:
 > [R2](https://www.smartisan.com/r2/)
 
 
-<img width="1625" alt="图片" src="https://github.com/user-attachments/assets/b63894ae-990d-4d65-9461-7f7d19fceb9c" />
-<img width="1430" alt="图片" src="https://github.com/user-attachments/assets/7d2f9bac-85db-4bb3-9b3b-71e6356aab4f" />
-<img width="1522" alt="图片" src="https://github.com/user-attachments/assets/822c19d5-4ba4-40a8-bbe6-c46b7d961ca9" />
-<img width="1622" alt="图片" src="https://github.com/user-attachments/assets/a7f150b1-657e-4240-8973-0419f3da2268" />
-<img width="1598" alt="图片" src="https://github.com/user-attachments/assets/fad4b265-7700-4e19-ac4c-428b4d00801d" />
-<img width="1634" alt="图片" src="https://github.com/user-attachments/assets/93e0ca75-6fc6-486b-adc9-70f7fe9f794c" />
-<img width="1647" alt="图片" src="https://github.com/user-attachments/assets/e3513773-03de-417d-9282-00be01516b46" />
-<img width="1628" alt="图片" src="https://github.com/user-attachments/assets/8fd51b4c-53af-4508-a42c-ed1ba6388dd0" />
-<img width="1664" alt="图片" src="https://github.com/user-attachments/assets/a870f722-e26e-4fe3-8b52-4b518be1bd5a" />
-<img width="1655" alt="图片" src="https://github.com/user-attachments/assets/bb88dd8d-eae6-4421-825a-00fea8258f57" />
-<img width="1654" alt="图片" src="https://github.com/user-attachments/assets/178b23f4-f753-471d-bf0a-64f58a3328f3" />
-<img width="1649" alt="图片" src="https://github.com/user-attachments/assets/5e5c704a-06a1-481e-9780-f79bd9fdc8ed" />
-<img width="1651" alt="图片" src="https://github.com/user-attachments/assets/633d15e2-f467-4aa3-8a46-4c4c243957e1" />
-<img width="1642" alt="图片" src="https://github.com/user-attachments/assets/8728e09a-353e-40da-9b52-e79b70ad5ec1" />
-<img width="1650" alt="图片" src="https://github.com/user-attachments/assets/9588fa5e-cd32-499e-b25e-f6d9356740f7" />
-<img width="1625" alt="图片" src="https://github.com/user-attachments/assets/553d7029-103c-4ca3-9bf5-b5ebbe2a3ea7" />
+<img width="1625" alt="" src="https://github.com/user-attachments/assets/b63894ae-990d-4d65-9461-7f7d19fceb9c" />
+<img width="1430" alt="" src="https://github.com/user-attachments/assets/7d2f9bac-85db-4bb3-9b3b-71e6356aab4f" />
+<img width="1522" alt="" src="https://github.com/user-attachments/assets/822c19d5-4ba4-40a8-bbe6-c46b7d961ca9" />
+<img width="1622" alt="" src="https://github.com/user-attachments/assets/a7f150b1-657e-4240-8973-0419f3da2268" />
+<img width="1598" alt="" src="https://github.com/user-attachments/assets/fad4b265-7700-4e19-ac4c-428b4d00801d" />
+<img width="1634" alt="" src="https://github.com/user-attachments/assets/93e0ca75-6fc6-486b-adc9-70f7fe9f794c" />
+<img width="1647" alt="" src="https://github.com/user-attachments/assets/e3513773-03de-417d-9282-00be01516b46" />
+<img width="1628" alt="" src="https://github.com/user-attachments/assets/8fd51b4c-53af-4508-a42c-ed1ba6388dd0" />
+<img width="1664" alt="" src="https://github.com/user-attachments/assets/a870f722-e26e-4fe3-8b52-4b518be1bd5a" />
+<img width="1655" alt="" src="https://github.com/user-attachments/assets/bb88dd8d-eae6-4421-825a-00fea8258f57" />
+<img width="1654" alt="" src="https://github.com/user-attachments/assets/178b23f4-f753-471d-bf0a-64f58a3328f3" />
+<img width="1649" alt="" src="https://github.com/user-attachments/assets/5e5c704a-06a1-481e-9780-f79bd9fdc8ed" />
+<img width="1651" alt="" src="https://github.com/user-attachments/assets/633d15e2-f467-4aa3-8a46-4c4c243957e1" />
+<img width="1642" alt="" src="https://github.com/user-attachments/assets/8728e09a-353e-40da-9b52-e79b70ad5ec1" />
+<img width="1650" alt="" src="https://github.com/user-attachments/assets/9588fa5e-cd32-499e-b25e-f6d9356740f7" />
+<img width="1625" alt="" src="https://github.com/user-attachments/assets/553d7029-103c-4ca3-9bf5-b5ebbe2a3ea7" />
 > [R1](https://www.smartisan.com/r1/overview)
 
 

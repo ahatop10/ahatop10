@@ -153,6 +153,25 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/d48df22e-fdc5-4c9d-9405-e5c429cdc8b0)
 > [R2](https://www.smartisan.com/r2/)
 
+
+<img width="1625" alt="图片" src="https://github.com/user-attachments/assets/b63894ae-990d-4d65-9461-7f7d19fceb9c" />
+<img width="1430" alt="图片" src="https://github.com/user-attachments/assets/7d2f9bac-85db-4bb3-9b3b-71e6356aab4f" />
+<img width="1522" alt="图片" src="https://github.com/user-attachments/assets/822c19d5-4ba4-40a8-bbe6-c46b7d961ca9" />
+<img width="1622" alt="图片" src="https://github.com/user-attachments/assets/a7f150b1-657e-4240-8973-0419f3da2268" />
+<img width="1598" alt="图片" src="https://github.com/user-attachments/assets/fad4b265-7700-4e19-ac4c-428b4d00801d" />
+<img width="1634" alt="图片" src="https://github.com/user-attachments/assets/93e0ca75-6fc6-486b-adc9-70f7fe9f794c" />
+<img width="1647" alt="图片" src="https://github.com/user-attachments/assets/e3513773-03de-417d-9282-00be01516b46" />
+<img width="1628" alt="图片" src="https://github.com/user-attachments/assets/8fd51b4c-53af-4508-a42c-ed1ba6388dd0" />
+<img width="1664" alt="图片" src="https://github.com/user-attachments/assets/a870f722-e26e-4fe3-8b52-4b518be1bd5a" />
+<img width="1655" alt="图片" src="https://github.com/user-attachments/assets/bb88dd8d-eae6-4421-825a-00fea8258f57" />
+<img width="1654" alt="图片" src="https://github.com/user-attachments/assets/178b23f4-f753-471d-bf0a-64f58a3328f3" />
+<img width="1649" alt="图片" src="https://github.com/user-attachments/assets/5e5c704a-06a1-481e-9780-f79bd9fdc8ed" />
+<img width="1651" alt="图片" src="https://github.com/user-attachments/assets/633d15e2-f467-4aa3-8a46-4c4c243957e1" />
+<img width="1642" alt="图片" src="https://github.com/user-attachments/assets/8728e09a-353e-40da-9b52-e79b70ad5ec1" />
+<img width="1650" alt="图片" src="https://github.com/user-attachments/assets/9588fa5e-cd32-499e-b25e-f6d9356740f7" />
+<img width="1625" alt="图片" src="https://github.com/user-attachments/assets/553d7029-103c-4ca3-9bf5-b5ebbe2a3ea7" />
+> [R1](https://www.smartisan.com/r1/overview)
+
 ![](https://github.com/user-attachments/assets/459f6e9a-c984-4e30-8870-ea6f8e2131e2)
 ![](https://github.com/user-attachments/assets/17f46e05-3f06-4ea2-9dbd-a803eb1401c9)
 > [YOTA3](https://news.mydrivers.com/1/549/549071.htm)
@@ -965,7 +984,7 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 * [x] 159901(易方达深圳100etf)
 * [x] 510360(广发沪深300etf)
 * [x] 512910（广发中证a100etf）
-* [ ] 588060（科创50etf）
+* [x] 588060（科创50etf）
 
 ---
 
@@ -1133,6 +1152,7 @@ Tracks of focus: Communications, new energy, Internet, e-commerce, semiconductor
 | 2025 | 2 | 1 | 1  | 
 | 2025 | 2 | 1 | 2  | 
 | 2025 | 2 | 1 | 3  | 
+| 2025 | 2 | 1 | 5  | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 

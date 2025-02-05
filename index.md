@@ -172,6 +172,11 @@ Here are some ideas to get you started:
 <img width="1625" alt="图片" src="https://github.com/user-attachments/assets/553d7029-103c-4ca3-9bf5-b5ebbe2a3ea7" />
 > [R1](https://www.smartisan.com/r1/overview)
 
+
+![](https://github.com/user-attachments/assets/714c6f4a-78e9-440c-95eb-88436188b189)
+![](https://github.com/user-attachments/assets/27493d67-fb94-4006-8a90-eef2016b4bf3)
+> [MIX 3](https://www.ifanr.com/1117903)，[评测](https://www.ifanr.com/1117655)，[5G 版本](https://www.ifanr.com/1177291)
+
 ![](https://github.com/user-attachments/assets/459f6e9a-c984-4e30-8870-ea6f8e2131e2)
 ![](https://github.com/user-attachments/assets/17f46e05-3f06-4ea2-9dbd-a803eb1401c9)
 > [YOTA3](https://news.mydrivers.com/1/549/549071.htm)

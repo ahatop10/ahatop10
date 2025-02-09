@@ -176,8 +176,8 @@ Here are some ideas to get you started:
 5. β收益的重点：基金板块均衡，深圳，上海，港股；科创板等
 6. α收益的重点：科技股，如，ai，新能源，互联网
 
-好公司、好价格；α
-长期投资，不做短线。β
+<img width="1103" alt="" src="https://github.com/user-attachments/assets/a7558220-94bc-44be-9b8e-c4221c580d27" />
+> 好公司、好价格α + 长期投资，不做短线β
 
 ---
 

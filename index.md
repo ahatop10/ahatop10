@@ -176,6 +176,7 @@ Here are some ideas to get you started:
 4. 美元仍旧强势，贸易战风险持续存在，做好资产配置及风险对冲
 5. β收益的重点：基金板块均衡，深圳，上海，港股；科创板等
 6. α收益的重点：科技股，如，ai，新能源，互联网
+7. 感受到资金在不同国家及业务板块的流动，市场情绪
 
 
 ![](https://github.com/user-attachments/assets/a7558220-94bc-44be-9b8e-c4221c580d27)

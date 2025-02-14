@@ -106,7 +106,6 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/cb550379-a22c-45fa-b806-9ba1dcf23623)
 ![](https://github.com/user-attachments/assets/22ce74b6-5155-43a0-819a-ec4712dd36b8)
 ![](https://github.com/user-attachments/assets/3c58b536-7645-404d-b037-60f8473db4bf)
-![](https://github.com/user-attachments/assets/cbd1b382-e51e-42f4-8be1-38e597947121)
 > 2025: **Law Exam、English and Keep fit**
 
 
@@ -169,19 +168,21 @@ Here are some ideas to get you started:
 
 优先级：身体、家庭、工作，最后是投资
 
-![](https://github.com/user-attachments/assets/17355717-336b-4595-904d-5a56490fff7f)
-> 投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平，金钱永不眠
+![](https://github.com/user-attachments/assets/72f197db-7c1a-4566-9e88-31a6ffd7f634)
+> 仰望星空，脚踏实地，金钱永不眠，实践出真知
 
 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
-— 好资产，好公司
-— 好价格，合理范围
-— 长期主义
-
+- 好资产，好公司
+- 好价格，合理范围
+- 长期主义
 
 - 行业板块
 - 候选资源池
 - 持仓资源池
+
+
+投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平
 
 
 1. A股2025年有概率上4千，故多配置eft股票及基金

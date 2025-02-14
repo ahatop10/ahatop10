@@ -171,6 +171,8 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/72f197db-7c1a-4566-9e88-31a6ffd7f634)
 > 仰望星空，脚踏实地，金钱永不眠，实践出真知
 
+![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
+![](https://github.com/user-attachments/assets/ebb33033-da47-4505-a12d-d581e992f9c4)
 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
 [A股持有5年以上的股票盈利概率超70%，但普通人平均持股仅3个月](https://metaso.cn/s/4i7xlbZ)
@@ -183,8 +185,13 @@ Here are some ideas to get you started:
 - 候选资源池
 - 持仓资源池
 
+- 不因便宜而购买，不管是消费或是投资
+- 因需要而购买，生理需求 or 情绪价值（喜欢，转化成专业及投资）
+- 沉没成本，损失厌恶
+- 不理性背后的根源，底层逻辑
 
-投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平
+
+> 投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平
 
 
 1. A股2025年有概率上4千，故多配置eft股票及基金

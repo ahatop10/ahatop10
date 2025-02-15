@@ -195,7 +195,7 @@ Here are some ideas to get you started:
 - 不理性背后的根源，底层逻辑
 
 
-> 投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，瑞·达利欧（Ray Dalio）
+> 投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，瑞·达利欧（Ray Dalio）
 
 
 1. A股2025年有概率上4千，故多配置eft股票及基金

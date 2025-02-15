@@ -173,6 +173,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 ![](https://github.com/user-attachments/assets/ebb33033-da47-4505-a12d-d581e992f9c4)
+![](https://github.com/user-attachments/assets/fc4bf41e-1377-4894-b6df-b76582bb87b0)
 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
 [A股持有5年以上的股票盈利概率超70%，但普通人平均持股仅3个月](https://metaso.cn/s/4i7xlbZ)
@@ -180,6 +181,9 @@ Here are some ideas to get you started:
 - 好资产，好公司
 - 好价格，合理范围
 - 长期主义
+
+> Ri­g­ht Bu­s­i­n­e­ss + Ri­g­ht Pe­o­p­le + Ri­g­ht Pr­i­ce, 长期经营！
+> 其实就是现金流折现的意思。好公司的未来好，未来现金流折现好，就算眼前价钱高一点点也是合算的。
 
 - 行业板块
 - 候选资源池
@@ -191,7 +195,7 @@ Here are some ideas to get you started:
 - 不理性背后的根源，底层逻辑
 
 
-> 投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平
+> 投资参考团成员：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，瑞·达利欧（Ray Dalio）
 
 
 1. A股2025年有概率上4千，故多配置eft股票及基金
@@ -202,7 +206,7 @@ Here are some ideas to get you started:
 6. α收益的重点：科技股，如，ai，新能源，互联网
 7. 感受到资金在不同国家及业务板块的流动，市场情绪，可以瞬间点燃，也可以暴跌
 8. 鸡蛋不放一个篮子，资产分散及合理配置，指数基金为主，科技股优先，单只股票仓位不能太大；
-9. 股票仓位一定要控制，留足弹药等待合适入场时机；
+9. 股票仓位一定要控制，留足弹药等待合适入场时机；先提升格局，认知及资本，不用担心错过机会，机会一定会有的
 10. 控制债务，不借钱投资，不负债投资，不加杠杆，保证现金流不断，避免贱卖资产。
 
 
@@ -273,6 +277,7 @@ A股结构性增配：加仓进口替代（半导体设备、工业母机）和�
 动态调整：密切关注3月中国两会政策细节、美国大选进展及贸易谈判动向，灵活调整仓位。
 
 
+
 ---
 
 ## Reference
@@ -300,6 +305,7 @@ A股结构性增配：加仓进口替代（半导体设备、工业母机）和�
 | 2025 | 2 | 1 | 5  | 
 | 2025 | 2 | 2 | 9  | 
 | 2025 | 2 | 2 | 11 | 
+| 2025 | 2 | 3 | 15 | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 

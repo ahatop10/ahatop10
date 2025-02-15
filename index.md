@@ -174,7 +174,8 @@ Here are some ideas to get you started:
 
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 ![](https://github.com/user-attachments/assets/ebb33033-da47-4505-a12d-d581e992f9c4)
-![](https://github.com/user-attachments/assets/fc4bf41e-1377-4894-b6df-b76582bb87b0)
+![](https://github.com/user-attachments/assets/446247d8-2aea-4808-848b-1a8024ae002c)
+![](https://github.com/user-attachments/assets/82c316cb-0a56-4d67-a89b-69d313c8c88c)
 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
 [A股持有5年以上的股票盈利概率超70%，但普通人平均持股仅3个月](https://metaso.cn/s/4i7xlbZ)

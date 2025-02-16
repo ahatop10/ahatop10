@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/6e529edf-a082-42c9-a312-e4f3c6e27d42)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 ![](https://github.com/user-attachments/assets/45b1659c-fb48-47c9-a783-542190e5d11d)
-> <ins>**Go go go**</ins>... **Facing the sea, with a warm heart and blooming flowers**
+> <ins>**Go go go**</ins>... **面朝大海，心暖花开**
 
 
 ![](https://github.com/user-attachments/assets/afdd44e0-6fb1-4bc0-b2b1-cd903ef7a3a6)
-> Sincerity, kindness and beautiful works, initiative, integrity and intelligence
+> 真诚、善良、作品、主动、正直、智慧
 
-
-> From the planning-completion mode, to the non-terminal enjoyment process mode
-> "Enjoy the present moment", enjoy every moment as a source of meaning
-> Limited resources, unlimited games, evaluate choices, adjust actions, and maximize probability
+> 从计划-完成模式，到无终点的享受过程模式
+> “享受当下”，享受每一刻都是意义的源泉
+> 有限的资源，无限的博弈，评估选择，调整行动，最大化概率
 
 
 ![](https://github.com/user-attachments/assets/a5ef63d1-5245-46bb-addc-251c991222cb)
@@ -40,13 +39,13 @@ Here are some ideas to get you started:
 
 <font color='red'>Tutor</font>[^People]
 
-## Original System
+## 原创体系
 
-**Here and now, this person and this matter**<sup>TM</sup>
+**此时此地、此人此事**<sup>TM</sup>
 
-**Rationality, immersion, present**<sup>TM</sup>
+**理性、沉浸、当下**<sup>TM</sup>
 
-**Rare, correct and valuable path**<sup>TM</sup>
+**少有、正确、价值之旅**<sup>TM</sup>
 
 **HWPM**<sup>TM</sup>
 
@@ -55,15 +54,15 @@ Here are some ideas to get you started:
 >> Wisdom
 > Health
 
-**Mountain climbing model**<sup>TM</sup>
+**登山模型**<sup>TM</sup>
 
 ![](https://github.com/user-attachments/assets/27bb3bbe-2cae-4c9b-98b2-66f70f066a37)
 ![](https://github.com/user-attachments/assets/c8e0c9e9-2dee-4e36-a99f-ef9238378d6f)
 
 
-**Three steps and six methods**<sup>TM</sup>
+**三步六法**<sup>TM</sup>
 
-**Five in one**<sup>TM</sup>
+**五位一体：用户，技术，产品，体验，专利，标准**<sup>TM</sup>
 
 > User 
 >> Technology
@@ -72,9 +71,9 @@ Here are some ideas to get you started:
 >> Patent
 >>> Standard 
 
-**Background goals, analysis and implementation, conclusions and suggestions**<sup>TM</sup>
+**背景目标、分析与实施、结论与建议**<sup>TM</sup>
 
-## Application System
+## 应用体系
 
 **MVP**<sup>TM</sup>
 
@@ -82,89 +81,90 @@ Here are some ideas to get you started:
 
 **RTFM**<sup>TM</sup>
 
-**Bayesian model**<sup>TM</sup>
+**贝叶斯模型**<sup>TM</sup>
 
-**Seven habits of highly effective people**<sup>TM</sup>
+**高效人士的七个习惯**<sup>TM</sup>
 
-**Compound interest formula**: Income = principal*(1+interest rate)<sup>Duration</sup>
+**复利公式**：收益=本金*（1+利率）<sup>时长</sup>
 
 
 ## Habits
 
 ![](https://github.com/user-attachments/assets/a156fb7b-9bd3-41f2-83bd-ec545f0076ae)
-> Creative Work
+> 创造性工作
 
-1. Meditation
-2. Note
-3. Walk
-4. Review
-5. Sisytem
-6. Patent
-7. Project
-8. Team
-9. Reading
-10. Journey
+1. 冥想
+2. 笔记
+3. 散步
+4. 复盘
+5. 系统
+6. 专利
+7. 项目
+8. 团队
+9. 阅读
+10. 旅程
 
 ![](https://github.com/user-attachments/assets/cb550379-a22c-45fa-b806-9ba1dcf23623)
 ![](https://github.com/user-attachments/assets/22ce74b6-5155-43a0-819a-ec4712dd36b8)
 ![](https://github.com/user-attachments/assets/3c58b536-7645-404d-b037-60f8473db4bf)
-> 2025: **Law Exam、English and Keep fit**
+> 2025: **法考，英语及健身**
 
 
 ## Invest
 
-> The great truth is simple, and keeping to the right path is extraordinary: <ins>Income = Capital * (1 + interest rate) <sup>Duration</sup></ins>
 
-1. It is not easy to make money in the stock market
-2. Invest requires capital, cognition, time, and understanding and overcoming human weaknesses, but it is not out of reach
-3. The market is a voting machine in the short term and a weighing machine in the long term.
-4. The final performance of the stock price depends on and only depends on the fundamentals of the company
-5. The basic skills of investment are actually to understand the company and the business, nothing else
-6. Do the right thing and do things right
-7. Price is what you pay, value is what you get
-8. A gentleman loves money, and he gets it in a "way", and "way" is his duty
-9. Taste the sweetness, eat the bitterness, things teach people, and actual combat brings true knowledge
+> 大道至简，坚持正道才是不凡：<ins>收益=本金*（1+利率）<sup>久期</sup></ins>
+
+1. 股市赚钱不容易
+2. 投资需要本金、认知、时间，需要理解和克服人性的弱点，但并非遥不可及
+3. 市场短期是投票机，长期是称重机
+4. 股价最终表现，取决于且只取决于公司基本面
+5. 投资的基本功，其实就是了解公司、了解生意，别无他法
+6. 做正确的事，把事情做对
+7. 付出价格，得到价值
+8. 君子爱财，取之有道，道是本分
+9. 尝甜头，吃苦头，事教人，实践出真知
 
 ### Yes
 
-1. <ins>**Buying stocks means buying a company**</ins>
-2. <ins>**Buy profitable companies**</ins>
-3. <ins>**Focus on core indicators: whether it makes money**</ins>
-4. whether the price-earnings ratio is high, whether the industry prospects are good, whether there is a moat,
-5. whether there is a dividend, whether the price is high or low
-6. The cost of buying is as low as possible
-7. Dynamically adjust the candidate resource pool and the allocation of held assets
-8. Discuss with yourself in the mirror, rather than following the crowd
-9. There are always opportunities for investment, no need to rush, and you can't rush
-10. Be rational and do the right thing
-11. Be patient and wait for investment targets to appear in your circle of competence, including actively looking for them in your circle of competence
-12. Find a good company and then "buy to keep"
-13. Right Business + Right People + Right Price
-14. Great companies are like antiques, becoming more and more valuable.
-15. The essence of business is the cooperation and mutual benefit of relevant stakeholders
-16. An outstanding company can predict what may happen in the future, but it does not necessarily know when it will happen
-17. Great companies: companies that can still maintain their great status in 25 or 30 years
-18. I like a company that has a sustainable competitive advantage and is managed by a group of people who are both capable and wholeheartedly serve shareholders
-19. When people forget the most basic common sense that "two plus two equals four", it is time to get out of the market
-20. Diversification is a protective umbrella for ignorance
-21. The so-called financial freedom is not to have a lot of money, but not to do things you don't like for money
+1.  <ins>**买股票就是买公司**</ins>
+2.  <ins>**买赚钱的公司**</ins>
+3.  <ins>**关注核心指标：是否赚钱**</ins>
+4. 市盈率是否高，行业前景是否好，有没有护城河
+5. 是否有分红，价格是高还是低
+6. 买入成本尽量低
+7. 动态调整候选资源池和持有资产的配置
+8. 对着镜子跟自己讨论，而不是随波逐流
+9. 投资机会永远有，不必着急，也不能着急
+10 理性做正确的事
+11. 耐心等待投资标的出现在你的能力圈里，包括主动在你的能力圈里寻找
+12. 找到好的公司然后“买来留着”
+13. 对的业务+对的人+对的价格
+14. 伟大的公司是就像古董一样，越来越值钱
+15. 商业的本质是相关利益者的合作与共赢
+16. 优秀的公司可以预测未来可能发生的事，但不一定知道什么时候会发生
+17. 伟大的公司：25年、30年后依然能保持伟大地位的公司
+18. 喜欢有可持续竞争优势，由一群既有能力又全心全意为股东服务的人管理的公司
+19. 当人们忘记“二加二等于四”这个最基本的常识时，就是退出市场的时候了
+20. 多元化是无知的保护伞
+21. 所谓的财务自由，不是有很多钱，而是不为了钱做不喜欢的事
 
 ### No
 
-1. ~~No borrowing for investment~~
-2. ~~Don't buy industries and companies you are familiar with~~
-3. ~~Don't buy just because the price is cheap~~
-4. Cheap things are often more expensive, and free is the most expensive
-5. If you are already in a pit, don't dig any further
-6. People with high IQs may not know where the boundaries of their circle of competence are
-7. People with high IQs may often go beyond their circle of competence
-8. Even people with a large circle of competence will be miserable outside their circle of competence
-9. We don't know what we don't know.
-10. There is no formula to calculate the intrinsic value of a company. You have to really understand the company
-11. Today's investors do not profit from yesterday's growth, so they cannot invest based on past PE or PEG
-12. Products must be differentiated, otherwise there will be fierce price competition in the end
-13. Don't want to buy the worst furniture at the cheapest price, buy the best furniture at a reasonable price
-14. Running on the wrong path is useless.
+1. ~~不借钱投资，不借杠杆~~
+2. ~~不要买自己不熟悉的行业和公司~~
+3. ~~不要因为价格便宜就买~~
+4. 便宜的东西往往更贵，免费的才是最贵的
+5. 如果已经陷在坑里，就不要再挖了
+6. 智商高的人不一定知道自己能力圈的边界在哪里
+7. 智商高的人可能经常会超越自己的能力圈
+8. 即使是能力圈大的人，在能力圈外也会惨不忍睹
+9. 我们不知道自己不知道的东西
+10. 计算一家公司的内在价值，没有公式可言，你必须真正了解这家公司
+11. 今天的投资者不会从昨天的增长中获利，所以不能根据过去的PE或PEG进行投资
+12. 产品一定要有差异化，否则最后会出现激烈的价格竞争
+13. 不要以最便宜的价格买最差的资产，要以合理的价格买最好的资产
+14. 跑在错误的路上是没有用的
 
 ### Trend
 
@@ -234,10 +234,10 @@ Here are some ideas to get you started:
 → 股票从10元跌到5元，煎熬半年涨回10元时，90%的人秒卖“解套”。但如果公司基本面变好，股价可能继续涨到20元，白白浪费时间和机会成本。
 
 专业建议：
-① 好公司越跌越买（前提是你看得懂价值）；
-② 浮亏时问自己：如果现在空仓，这个价格我会买吗？
-③ 用闲钱投资，避免被迫割肉；
-④ 少看账户，屏蔽短期噪音。
+- ① 好公司越跌越买（前提是你看得懂价值）；
+- ② 浮亏时问自己：如果现在空仓，这个价格我会买吗？
+- ③ 用闲钱投资，避免被迫割肉；
+- ④ 少看账户，屏蔽短期噪音。
 
 认知升级与心态建设：
 
@@ -245,47 +245,35 @@ Here are some ideas to get you started:
 2. 对抗FOMO：降低交易频率（如每年调仓1次），避免因“害怕错过”而追涨杀跌。
 3. 长期主义：忽略短期波动，关注周期（如3-5年经济周期）而非日线涨跌。
 
+延迟满足（Delayed Gratification）是指个体为获得更有价值的长远结果，主动放弃即时满足的心理过程。
 
----
+1. 神经发育：促进前额叶皮层髓鞘化，提升决策理性；
+2. 情绪调节：建立“冲动-抑制-评估”神经回路；
+3. 价值观内化：将即时快感转化为长期价值判断。
 
-三套资产配置方案
+- 示例1：消费中的购物冷静期策略：欲望触发 → 加入购物车 → 24小时等待 → 重新评估必要性 → 决策
+- 示例2：基金定投中的延迟满足：坚持5年以上的定投者盈利概率超80%，平均年化收益率达7-12%。
+- 示例3：长期投资的复利效应：将10万元投入年化收益率8%的理财产品 vs 即时消费10万元（如购买车）
 
-方案一：保守防御型
-**配置比例：美股20% + 港股40% + A股30% + 黄金ETF 10%**
+短期满足 → 车辆贬值至5万元（5年后）
+延迟满足 → 资产增值至46.6万元（20年后）
 
-理由：低配美股：规避贸易摩擦升级对美股的潜在冲击。
-侧重港股：利用港股“避风港”属性（估值低、利空消化充分）和与A股的联动性。
-A股精选内需：聚焦消费、基建等政策受益板块，对冲出口链风险。
-黄金对冲：配置黄金ETF抵御市场波动和汇率风险。
+定投微笑曲线效应
 
----
+| 市场阶段 | 操作策略 | 结果 | 
+| ----- | :------: | :------: | 
+| 下跌期 | 低价持续买入 | 摊薄成本，积累份额 | 
+| 震荡期 | 定期定额投入 | 平滑波动，降低风险 | 
+| 上升期 | 持有待涨 | 享受复利增值 | 
 
-方案二：平衡灵活型
-**配置比例：美股30% + 港股35% + A股30% + 现金5%**
 
-理由：美股中性：短期关税冲击可控，可配置防御性行业（公用事业、必需消费）和科技龙头（业绩确定性高）。
-港股核心持仓：通过恒生科技指数基金布局超跌科技股，同时持有高股息国企（如能源、电信）平衡风险。
-A股结构性增配：加仓进口替代（半导体设备、工业母机）和新能源（海外依赖度低）。
-保留现金：预留机动资金，应对关税政策反复带来的市场回调机会。
+实践策略总结
 
----
-
-方案三：积极进取型
-**配置比例：美股15% + 港股25% + A股50% + 跨境ETF 10%**
-
-理由：
-超跌A股为主线：关税幅度温和（10%）且政策对冲预期强（财政发力、地产纾困），逢低布局宽基指数（如MSCI A50 ETF）和国产替代主题基金。
-港股弹性品种：配置港股互联网龙头（估值修复）和生物医药（与关税关联度低）。
-美股低配：仅保留必需消费和医疗等防御性行业ETF。
-跨境ETF分散风险：通过中概股ETF或新兴市场基金分散单一市场风险。
-
----
-总结建议
-
-短期：优先方案一或二，控制美股敞口，利用港股和A股内需板块对冲关税风险。
-中长期：若中国政策刺激见效，可逐步向方案三倾斜，把握A股估值修复和国产替代主线。
-动态调整：密切关注3月中国两会政策细节、美国大选进展及贸易谈判动向，灵活调整仓位。
-
+| 领域 | 即时满足行为 | 延迟满足策略 | 长期收益 | 
+| ----- | :------: | :------: | :------: | 
+| 消费 | 冲动购买新款手机 | 等待促销季或换代时购买 | 节省30%-50%购机成本 | 
+| 投资 | 短期追涨杀跌 | 定期定额基金定投 | 5年以上盈利概率超80% | 
+| 理财 | 月光族消费 | 每月强制储蓄20%收入 | 10年积累本金+利息超24万 | 
 
 
 ---

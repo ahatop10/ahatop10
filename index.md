@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ![](https://github.com/user-attachments/assets/3bc60246-8e18-42d7-8dcd-0a6ae10012b9)
 ![](https://github.com/user-attachments/assets/8e0776aa-1643-4c17-97cc-cb0450719269)
 ![](https://github.com/user-attachments/assets/bec0931f-f6a2-4753-aa3a-25252eb48296)
+![](https://github.com/user-attachments/assets/0c7e348a-9f81-4f3b-b4a0-219b74eb8c81)
+![](https://github.com/user-attachments/assets/5ed40061-0ea8-4376-90bd-c85ae62081a8)
 ![](https://github.com/user-attachments/assets/4179a975-e2c5-4f52-a1d3-8669da920e20)
 > <a href="#end">Goto the End.</a> 
 
@@ -104,6 +106,14 @@ Here are some ideas to get you started:
 8. 团队
 9. 阅读
 10. 旅程
+
+```MJ
+1. 🏀篮球工匠
+2. 渴求及获得胜利（决心，意志力）
+3. 团队协作（和皮蓬好搭档）
+4. 成长经历（韧性）
+5. 提升篮球影响力，取得投资理财及商业上成功
+```
 
 ![](https://github.com/user-attachments/assets/cb550379-a22c-45fa-b806-9ba1dcf23623)
 ![](https://github.com/user-attachments/assets/22ce74b6-5155-43a0-819a-ec4712dd36b8)
@@ -201,7 +211,7 @@ Here are some ideas to get you started:
 - 不理性背后的根源，底层逻辑
 
 
-> 投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
+> 投资专家团：李笑来，香帅，何刚，吴军，Guru（陈守红），段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
 
 
 1. A股2025年有概率上4千，故多配置eft股票及基金

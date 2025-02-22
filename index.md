@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```ahaip
+1. 利用AI 工具完成基本的信息检索，分析及推理，掌握底层逻辑
+2. 积累更多专业实务及投资理财经验，从 t字 到 π型，夯实基本功
+3. 持续深入洞察人性、利益及关系；商业模式；市场情绪等，顺势而为
+4. 自我进化，体系化沉淀，开拓创新，高效闭环，迭代优化
+5. 变化、挑战，需求，任务等等，都是机会，创造价值的机会，观念格局
+6. 健康，家庭，工作，投资，价值观，优先级
+```
+
+
 
 ![](https://github.com/user-attachments/assets/6e529edf-a082-42c9-a312-e4f3c6e27d42)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)

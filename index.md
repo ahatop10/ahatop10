@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="1439" alt="图片" src="https://github.com/user-attachments/assets/9788561b-afa8-4966-b462-26a232e79bf7" />
-> 持续创造价值，<ins>技能=基本功*(1+次数)<sup>创新</sup></ins>；及坚持价值投资，<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
+![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
+> 持续创造价值，<ins>技能=基本功*(1+次数)<sup>创新</sup></ins>
+
+
+![](https://github.com/user-attachments/assets/3ef195ea-bd37-4bc0-a35c-5cbacebb6f4b)
+> 坚持价值投资，<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
 
 ```ahaip
@@ -131,7 +135,8 @@ Here are some ideas to get you started:
 ```
 
 ![](https://github.com/user-attachments/assets/cb550379-a22c-45fa-b806-9ba1dcf23623)
-![](https://github.com/user-attachments/assets/22ce74b6-5155-43a0-819a-ec4712dd36b8)
+![](https://github.com/user-attachments/assets/5526cbbf-701a-4088-a8c7-6c5d3996b5ae)
+![](https://github.com/user-attachments/assets/9977ef57-f104-4606-983b-f50620bab278)
 ![](https://github.com/user-attachments/assets/3c58b536-7645-404d-b037-60f8473db4bf)
 > 2025: **法考，英语及健身**
 
@@ -150,6 +155,15 @@ Here are some ideas to get you started:
 7. 付出价格，得到价值
 8. 君子爱财，取之有道，道是本分
 9. 尝甜头，吃苦头，事教人，实践出真知
+
+
+价值投资有且只有4个核心理念：
+
+1. 股票是对公司的部分所有权
+2. 市场只会告诉你价格是什么，而不会告诉你价值是什么
+3. 投资本质上是对未来进行预测，预测结果不可能100%正确，因此要有安全边际，安全边际主要源自买得便宜和低预期
+4. 通过长时间的努力可以形成自己的能力圈，能力圈的边界比大小重要
+
 
 ### Yes
 

@@ -201,7 +201,7 @@ Here are some ideas to get you started:
 - 不理性背后的根源，底层逻辑
 
 
-> 投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，Ray Dalio，吴伯凡
+> 投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
 
 
 1. A股2025年有概率上4千，故多配置eft股票及基金
@@ -307,6 +307,7 @@ Here are some ideas to get you started:
 | 2025 | 2 | 2 | 11 | 
 | 2025 | 2 | 3 | 15 | 
 | 2025 | 2 | 3 | 16 | 
+| 2025 | 2 | 4 | 22 | 
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
 

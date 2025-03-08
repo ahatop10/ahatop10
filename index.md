@@ -1,11 +1,12 @@
 
 ![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
+![](https://github.com/user-attachments/assets/a3da8f12-146d-4da0-a558-83c4dd146660)
 > 身体、家庭、工作，投资，价值投资——<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
 ![](https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f)
 ![](https://github.com/user-attachments/assets/8d6fd2b5-68b5-476c-b25c-4b800c231f83)
 ![](https://github.com/user-attachments/assets/06b8a9b9-31b5-4766-a49c-1958bfda4792)
-> α收益示例
+> α收益示例，[不要爱上一家公司，而要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
 
 ![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
 ![](https://github.com/user-attachments/assets/8e6d4216-f106-43da-bec6-d57d77b578e7)
@@ -68,15 +69,14 @@
 ![](https://github.com/user-attachments/assets/89d9f545-5144-4108-a0b0-63d45715d749)
 > [平常心做非常事](https://www.sohu.com/a/459267173_761946)，修己安人，Life is a journey.
 
-| 国家/地区 | 交易所名称 | 北京时间（星期一至五） | 
-|-----------|------------|---------------------------|
-| **中国** | 上海证券交易所、深圳证券交易所 | 09:30 - 11:30, 13:00 - 15:00 | 
-| **香港** | 香港联合交易所 | 09:30 - 12:00, 13:00 - 16:00 | 
-| **美国** | 纽约证券交易所、纳斯达克 | 
-| **德国** | Xetra | 16:00 - 00:30 | 
-| **法国** | Euronext | 16:00 - 00:30 | 
-| **英国** | 伦敦证券交易所 | 16:00 - 00:30 | 
-| **日本** | 东京证券交易所 | 08:00 - 12:30, 13:30 - 16:30 | 
-| **新加坡** | 新加坡交易所 | 09:00 - 17:00 | 
+| 国家/地区 | 交易所名称 | 北京时间（星期一至五） | 总时长 | 市场指数代表 | 
+|-----------|------------------|------------------------------------------|---------------------------------|---------------------------|
+| **中国** | 上海证券交易所、深圳证券交易所 |  09:30 - 11:30, 13:00 - 15:00 | 4小时 | 上证指数Shanghai Composite Index、深证成指Shenzhen Component Index |
+| **香港** | 香港联合交易所 | 09:30 - 12:00, 13:00 - 16:00 | 5.5小时 | 恒生指数（Hang Seng Index, HSI） |
+| **美国** | 纽约证券交易所、纳斯达克 | 夏令时21:30，冬令时22:30开盘 夏4点冬5点收盘| 6.5小时（无午休） | 标普 500 指数（S&P 500）、道琼斯工业平均指数（Dow Jones Industrial Average, DJIA）、纳斯达克综合指数（Nasdaq Composite） |
+| **德国** | 法兰克福证券交易所 Xetra系统 |  夏令时15:00 - 23:30 冬令时16:00 - 00:30 | 连续8.5小时 | DAX 指数（DAX 40） |
+| **法国** | 巴黎证券交易所 Euronext Paris |  夏令时15:00 - 23:30 冬令时16:00 - 00:30 | 连续8.5小时 | CAC 40 指数（CAC 40） |
+| **英国** | 伦敦证券交易所 |  夏令时15:00 - 23:30 冬令时16:00 - 00:30 | 连续8.5小时 | 富时 100 指数（FTSE 100） |
+| **日本** | 东京证券交易所 |  08:00 - 10:30, 11:30 - 14:00 | 4小时 | 日经 225 指数（Nikkei 225）、东证指数（TOPIX） |
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

@@ -2,15 +2,14 @@
 ![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
 > 身体、家庭、工作，投资，价值投资——<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
-
-<img width="1112" alt="腾讯" src="https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f" />
-<img width="1109" alt="小米" src="https://github.com/user-attachments/assets/8d6fd2b5-68b5-476c-b25c-4b800c231f83" />
-<img width="1110" alt="中芯" src="https://github.com/user-attachments/assets/06b8a9b9-31b5-4766-a49c-1958bfda4792" />
+![](https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f)
+![](https://github.com/user-attachments/assets/8d6fd2b5-68b5-476c-b25c-4b800c231f83)
+![](https://github.com/user-attachments/assets/06b8a9b9-31b5-4766-a49c-1958bfda4792)
 > α收益示例
 
-<img width="1111" alt="上证" src="https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6" />
-<img width="1110" alt="恒生" src="https://github.com/user-attachments/assets/8e6d4216-f106-43da-bec6-d57d77b578e7" />
-<img width="1103" alt="标普" src="https://github.com/user-attachments/assets/367b3aa5-b517-4e32-862e-31c40f7d20c6" />
+![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
+![](https://github.com/user-attachments/assets/8e6d4216-f106-43da-bec6-d57d77b578e7)
+![](https://github.com/user-attachments/assets/367b3aa5-b517-4e32-862e-31c40f7d20c6)
 > β收益示例
 
 ![](https://github.com/user-attachments/assets/43e91936-d12f-47ff-9173-430b878faca9)
@@ -25,7 +24,17 @@
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 > 相信投资顾问：李笑来，香帅，何刚，吴军，Guru（陈守红），段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
 
-<img width="1049" alt="Value" src="https://github.com/user-attachments/assets/9fb27c18-ecaa-4289-9636-9a716fd41985" />
+<img width="904" alt="" src="https://github.com/user-attachments/assets/a2b46ed1-1a36-431c-b917-2dcc78d586ca" />
+<img width="1206" alt="" src="https://github.com/user-attachments/assets/7873ff65-260b-4417-bd90-ace62d15f2b3" />
+<img width="1013" alt="" src="https://github.com/user-attachments/assets/52cb5fbe-0970-4a0c-afa5-668c59ffac6e" />
+<img width="1032" alt="" src="https://github.com/user-attachments/assets/c1b71206-060c-408b-9eed-b3e16aa1dd73" />
+<img width="1014" alt="" src="https://github.com/user-attachments/assets/6f455d9a-2da4-4997-9e4d-b862f01dc1ea" />
+<img width="986" alt="" src="https://github.com/user-attachments/assets/f3fb55bd-b95a-4936-8a08-6a5c1cdc1523" />
+<img width="1001" alt="" src="https://github.com/user-attachments/assets/37ef6c2b-520e-45da-89b4-2e6787ae01cf" />
+<img width="975" alt="" src="https://github.com/user-attachments/assets/1e3471ef-b45a-4790-ae3b-50bff17b0401" />
+<img width="1001" alt="" src="https://github.com/user-attachments/assets/ff2a0706-f167-4a6c-9276-3d64da16dd6b" />
+<img width="955" alt="" src="https://github.com/user-attachments/assets/2db28aa9-fe11-49c2-8ed8-5d390dc339e7" />
+<img width="952" alt="图片" src="https://github.com/user-attachments/assets/37724a47-dcfc-4499-99d1-981d8453062b" />
 > 行业价值（规模性，竞争性），管理价值（方向感，稳定性），运营价值（盈利性，风控力）
 
 ![](https://github.com/user-attachments/assets/d39d6a09-e7c8-495e-a261-b24f929b2028)
@@ -54,9 +63,13 @@
 > 金钱永不眠，复利思维：扩大本金，提高收益率，拉长时间  
 
 
+![](https://github.com/user-attachments/assets/178c5fa5-0c21-4e3c-9002-33ef357e3228)
+![](https://github.com/user-attachments/assets/137c104e-bc15-44d1-b7d9-81dc65601f5a)
+![](https://github.com/user-attachments/assets/89d9f545-5144-4108-a0b0-63d45715d749)
+> [平常心做非常事](https://www.sohu.com/a/459267173_761946)，修己安人，Life is a journey.
+
 | 国家/地区 | 交易所名称 | 北京时间（星期一至五） | 
 |-----------|------------|---------------------------|
-
 | **中国** | 上海证券交易所、深圳证券交易所 | 09:30 - 11:30, 13:00 - 15:00 | 
 | **香港** | 香港联合交易所 | 09:30 - 12:00, 13:00 - 16:00 | 
 | **美国** | 纽约证券交易所、纳斯达克 | 
@@ -65,14 +78,5 @@
 | **英国** | 伦敦证券交易所 | 16:00 - 00:30 | 
 | **日本** | 东京证券交易所 | 08:00 - 12:30, 13:30 - 16:30 | 
 | **新加坡** | 新加坡交易所 | 09:00 - 17:00 | 
-
-
-![](https://github.com/user-attachments/assets/178c5fa5-0c21-4e3c-9002-33ef357e3228)
-![](https://github.com/user-attachments/assets/137c104e-bc15-44d1-b7d9-81dc65601f5a)
-![](https://github.com/user-attachments/assets/89d9f545-5144-4108-a0b0-63d45715d749)
-> [平常心做非常事](https://www.sohu.com/a/459267173_761946)，修己安人，Life is a journey.
-
-
-
 
 ![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")

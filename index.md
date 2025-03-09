@@ -1,17 +1,6 @@
 
-![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
 ![](https://github.com/user-attachments/assets/a3da8f12-146d-4da0-a558-83c4dd146660)
 > 身体、家庭、工作，投资，价值投资——<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
-
-![](https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f)
-![](https://github.com/user-attachments/assets/8d6fd2b5-68b5-476c-b25c-4b800c231f83)
-![](https://github.com/user-attachments/assets/06b8a9b9-31b5-4766-a49c-1958bfda4792)
-> α收益示例，[不要爱上一家公司，而要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
-
-![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
-![](https://github.com/user-attachments/assets/8e6d4216-f106-43da-bec6-d57d77b578e7)
-![](https://github.com/user-attachments/assets/367b3aa5-b517-4e32-862e-31c40f7d20c6)
-> β收益示例
 
 ![](https://github.com/user-attachments/assets/43e91936-d12f-47ff-9173-430b878faca9)
 > 价值投资有且只有4个核心理念：
@@ -22,61 +11,39 @@
 4. 通过长时间的努力形成自己的能力圈，能力圈的边界比大小重要，行业板块，候选/持仓资源池，持续刷新
 
 
-![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
-> 相信投资顾问：李笑来，香帅，何刚，吴军，Guru（陈守红），段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
-
-<img width="904" alt="" src="https://github.com/user-attachments/assets/a2b46ed1-1a36-431c-b917-2dcc78d586ca" />
-<img width="1206" alt="" src="https://github.com/user-attachments/assets/7873ff65-260b-4417-bd90-ace62d15f2b3" />
-<img width="1013" alt="" src="https://github.com/user-attachments/assets/52cb5fbe-0970-4a0c-afa5-668c59ffac6e" />
-<img width="1032" alt="" src="https://github.com/user-attachments/assets/c1b71206-060c-408b-9eed-b3e16aa1dd73" />
-<img width="1014" alt="" src="https://github.com/user-attachments/assets/6f455d9a-2da4-4997-9e4d-b862f01dc1ea" />
-<img width="986" alt="" src="https://github.com/user-attachments/assets/f3fb55bd-b95a-4936-8a08-6a5c1cdc1523" />
-<img width="1001" alt="" src="https://github.com/user-attachments/assets/37ef6c2b-520e-45da-89b4-2e6787ae01cf" />
-<img width="975" alt="" src="https://github.com/user-attachments/assets/1e3471ef-b45a-4790-ae3b-50bff17b0401" />
-<img width="1001" alt="" src="https://github.com/user-attachments/assets/ff2a0706-f167-4a6c-9276-3d64da16dd6b" />
-<img width="955" alt="" src="https://github.com/user-attachments/assets/2db28aa9-fe11-49c2-8ed8-5d390dc339e7" />
-<img width="952" alt="图片" src="https://github.com/user-attachments/assets/37724a47-dcfc-4499-99d1-981d8453062b" />
+![](https://github.com/user-attachments/assets/dfa19531-ccd1-4d84-ab5f-46d5d785fe21)
+![](https://github.com/user-attachments/assets/2a968b6f-c111-49c1-8398-5c5ca504a63e)
+![](https://github.com/user-attachments/assets/8c0276ff-bea5-435f-8471-0d922de7524c)
+![](https://github.com/user-attachments/assets/116fc01f-5efc-4da4-851e-04a401bcbb3a)
+![](https://github.com/user-attachments/assets/c3df229f-bb67-4e5a-8827-45231c2f198d)
 > 行业价值（规模性，竞争性），管理价值（方向感，稳定性），运营价值（盈利性，风控力）
 
-![](https://github.com/user-attachments/assets/d39d6a09-e7c8-495e-a261-b24f929b2028)
-> 现有价格：未来在现在展现的样子
+# 部分公司股票分析表格
 
-
-1. A股2025年有概率上4千，故多配置eft股票及基金
-2. 房地产阵痛可能持续到2030年，不买房不投资，不熟不碰
-3. 当前美股处于估值高位，eft基金收益率可能低于10%，定投，做好长期持有的准备
-4. 美元仍旧强势，贸易战风险持续存在，做好资产配置及风险对冲，A，H、美、欧、日，不同板块
-5. β收益的重点：基金板块均衡，深圳，上海，港股，科创板等
-6. α收益的重点：科技股，如，ai（人形机器人），新能源(无人驾驶)，互联网
-7. 资金在不同国家及业务板块的流动，市场情绪，可以瞬间点燃，也可以暴跌，有情绪有变化才能有机会
-8. 鸡蛋不放同一个篮子，资产分散及合理配置，指数基金为主，科技股优先，单只股票仓位不能太大
-9. 股票仓位要控制，留足弹药等待合适入场时机，一直都有机会，持续提升格局，认知及资本
-10. 控制债务占比，不借钱投资，不负债投资，不加杠杆，保证现金流不断，避免贱卖资产，多买资产少买消费品
-11. “风口”在哪个时代都是少数人能抓到的东西，绝大部分人只能是围观，彼时彼刻，正如此时此刻
-12. AI，无人驾驶，人形机器人...上车，等待，与伟大公司一起成长，才能享受到科技推动人类进步的红利
-13. 常见误区：贪便宜，买跌不买涨，沉没成本，损失厌恶，根据过去的价格推导未来，买了就盼着涨， 卖了后悔卖早了，合理范围全凭感觉
-
-
-![](https://github.com/user-attachments/assets/82f21a0a-268f-4901-b50e-57e71ddff8af)
-![](https://github.com/user-attachments/assets/5b214be9-e4cf-4728-a189-a55874f529cd)
-![](https://github.com/user-attachments/assets/2d77d8da-400c-4102-baf0-6aae09e71f76)
-![](https://github.com/user-attachments/assets/8044afab-f348-46bb-84b7-d559c8577467)
-> 金钱永不眠，复利思维：扩大本金，提高收益率，拉长时间  
-
-
-![](https://github.com/user-attachments/assets/178c5fa5-0c21-4e3c-9002-33ef357e3228)
-![](https://github.com/user-attachments/assets/137c104e-bc15-44d1-b7d9-81dc65601f5a)
-![](https://github.com/user-attachments/assets/89d9f545-5144-4108-a0b0-63d45715d749)
-> [平常心做非常事](https://www.sohu.com/a/459267173_761946)，修己安人，Life is a journey.
-
-| 国家/地区 | 交易所名称 | 北京时间（星期一至五） | 总时长 | 市场指数代表 | 
-|-----------|------------------|------------------------------------------|---------------------------------|---------------------------|
-| **中国** | 上海证券交易所、深圳证券交易所 |  09:30 - 11:30, 13:00 - 15:00 | 4小时 | 上证指数Shanghai Composite Index、深证成指Shenzhen Component Index |
-| **香港** | 香港联合交易所 | 09:30 - 12:00, 13:00 - 16:00 | 5.5小时 | 恒生指数（Hang Seng Index, HSI） |
-| **美国** | 纽约证券交易所、纳斯达克 | 夏令时21:30，冬令时22:30开盘 夏4点冬5点收盘| 6.5小时（无午休） | 标普 500 指数（S&P 500）、道琼斯工业平均指数（Dow Jones Industrial Average, DJIA）、纳斯达克综合指数（Nasdaq Composite） |
-| **德国** | 法兰克福证券交易所 Xetra系统 |  夏令时15:00 - 23:30 冬令时16:00 - 00:30 | 连续8.5小时 | DAX 指数（DAX 40） |
-| **法国** | 巴黎证券交易所 Euronext Paris |  夏令时15:00 - 23:30 冬令时16:00 - 00:30 | 连续8.5小时 | CAC 40 指数（CAC 40） |
-| **英国** | 伦敦证券交易所 |  夏令时15:00 - 23:30 冬令时16:00 - 00:30 | 连续8.5小时 | 富时 100 指数（FTSE 100） |
-| **日本** | 东京证券交易所 |  08:00 - 10:30, 11:30 - 14:00 | 4小时 | 日经 225 指数（Nikkei 225）、东证指数（TOPIX） |
-
-![Alt](https://repobeats.axiom.co/api/embed/40880927eaccfed2016f6281480f99f913459f14.svg "Repobeats analytics image")
+## 2025.3.9日（豆包）
+| 公司名称  | 行业价值           | 管理价值        | 运营价值        | 投资建议 |
+| ----- | -------------- | ----------- | ----------- | ---- |
+| 传音控股  | 新兴市场手机份额高      | 聚焦新兴市场，管理稳  | 新兴市场盈利且风控好  | 增持   |
+| 比亚迪   | 新能源车企，规模大技术强   | 新能源战略清晰，管理稳 | 营收利润好，业务多元  | 增持   |
+| 宁德时代  | 全球动力电池领军者      | 专注电池，管理经验足  | 盈利能力强，研发风控好 | 增持   |
+| 小米    | 智能产品规模大，性价比高   | 发展战略多元，管理较稳 | 营收增长，盈利待提升  | 观望   |
+| 腾讯控股  | 互联网社交游戏巨头      | 业务多元，管理团队稳  | 盈利好，业务抗风险   | 增持   |
+| 中芯国际  | 大陆芯片制造龙头       | 专注芯片，管理方向明  | 有盈利，国际风控难   | 观望   |
+| 美团    | 本地生活服务领先者      | 拓展业务，管理方向强  | 盈利提升，风控较好   | 增持   |
+| 百度    | 国内搜索与 AI 有布局   | 转型 AI，管理方向明 | 受转型影响，风控有挑战 | 观望   |
+| 阿里巴巴  | 电商及云计算巨头       | 业务调整，管理有变动  | 受竞争影响，风控待加强 | 观望   |
+| 理想汽车  | 增程式 SUV 新势力    | 聚焦增程，管理团队稳  | 有盈利，竞争风控有招  | 增持   |
+| 蔚来    | 高端新能源汽车代表      | 坚持高端，管理方向明  | 盈利压力大，风控挑战大 | 观望   |
+| 小鹏    | 新能源汽车有规模       | 专注智能车，管理稳定  | 盈利压力大，风控有挑战 | 观望   |
+| 谷歌    | 全球互联网技术强者      | 多元发展，管理方向强  | 盈利能力强，抗反垄断  | 增持   |
+| 英伟达   | AI 计算领域 GPU 龙头 | 聚焦 AI，管理团队稳 | 盈利猛增，技术风控好  | 增持   |
+| 特斯拉   | 新能源汽车创新者       | 创新战略，管理有活力  | 盈利增长，多方面风控  | 增持   |
+| Meta  | 社交与元宇宙有布局      | 全力转型元宇宙，管理稳 | 盈利受影响，有监管风控 | 观望   |
+| 亚马逊   | 电商云计算双巨头       | 持续拓展，管理方向强  | 盈利好，有成本风控   | 增持   |
+| 微软    | 软件云计算行业巨头      | 转型成功，管理方向强  | 盈利好，技术风控稳   | 增持   |
+| 苹果    | 全球消费电子大龙头      | 产品创新，管理团队稳  | 盈利丰厚，供应链风控好 | 增持   |
+| ASML  | 全球光刻机垄断强者      | 专注研发，管理团队稳  | 盈利强，受国际关系影响 | 增持   |
+| TSMC  | 全球晶圆代工大龙头      | 专注代工，管理方向明  | 盈利好，受地缘影响   | 增持   |
+| Intel | 半导体芯片传统巨头      | 业务转型，管理有变动  | 盈利受冲击，风控有挑战 | 观望   |
+| AMD   | 芯片领域产品多元       | 产品多元，管理方向强  | 盈利增长，份额风控好  | 增持   |
+| 香港交易所 | 亚太金融重要平台       | 拓展创新，管理团队稳  | 盈利好，受市场政策影响 | 增持   |

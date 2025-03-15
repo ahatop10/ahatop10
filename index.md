@@ -10,6 +10,13 @@
 3. 投资本质上是对未来进行预测，预测结果有变数，要有安全边际，买得便宜和低预期，合理范围，动态调整
 4. 通过长时间的努力形成自己的能力圈，能力圈的边界比大小重要，行业板块，候选/持仓资源池，持续刷新
 
+![](https://github.com/user-attachments/assets/8490b821-a99c-4102-8c6a-1bac06cd48d5)
+![](https://github.com/user-attachments/assets/aa019a8c-1bf1-4b65-8ce7-daf0938a410e)
+> 动态调整，TESLA NVDA...
+
+1. 价值投资最艰难的挑战，就是永远要在“承受波动”与“规避亏损”之间做出判断
+2. 投资者对长期判断有足够的定力，不为市场的噪音和情绪所干扰；也能随时正视现实，在出现反面证据或重大风险时，果断调整
+3. 熟悉投资组合的优势，更需要深入了解可能面临的风险，才能真正与时代和伟大的企业并肩同行
 
 ![](https://github.com/user-attachments/assets/dfa19531-ccd1-4d84-ab5f-46d5d785fe21)
 ![](https://github.com/user-attachments/assets/2a968b6f-c111-49c1-8398-5c5ca504a63e)

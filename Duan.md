@@ -1,5 +1,49 @@
 
-## [段永平浙大分享的65条精华：本质、长远、做对的事情](https://www.digitaling.com/articles/1306262.html)
+## 段永平
+
+用生命影响生命
+作者：泰戈尔
+把自己活成一道光，
+因为你不知道，
+谁会借着你的光，
+走出了黑暗。
+请保持心中的善良，
+因为你不知道，
+谁会借着你的善良，
+走出了绝望。
+请保持你心中的信仰，
+因为你不知道，
+谁会借着你的信仰，
+走出了迷茫。
+请相信自己的力量，
+因为你不知道，
+谁会因为相信你，
+开始相信了自己。
+愿我们每个人都能活成一束光，
+绽放着所有的美好！
+
+### 雪球最新动态（2025.3.15日）
+
+<img width="732" alt="图片" src="https://github.com/user-attachments/assets/591c6039-93aa-4fee-934b-95692d3a86d5" />
+<img width="866" alt="图片" src="https://github.com/user-attachments/assets/0ed58eed-3c39-466a-9144-5e362f549b67" />
+<img width="734" alt="图片" src="https://github.com/user-attachments/assets/81a8aaba-dcde-4fbe-bc16-928248acd36a" />
+<img width="867" alt="图片" src="https://github.com/user-attachments/assets/8aa88d23-3de2-4a01-8671-d9f904784eb4" />
+<img width="896" alt="图片" src="https://github.com/user-attachments/assets/12599db8-16ec-4a2d-963b-3c97ec87904e" />
+<img width="906" alt="图片" src="https://github.com/user-attachments/assets/4391926b-c6b5-45fa-b950-676d5a67c4bd" />
+<img width="803" alt="图片" src="https://github.com/user-attachments/assets/78bcb6cf-86ad-4b92-8158-0ca9d9bc99c9" />
+<img width="984" alt="图片" src="https://github.com/user-attachments/assets/bf2678c7-4300-4d84-898a-dd9e32a135f6" />
+<img width="740" alt="图片" src="https://github.com/user-attachments/assets/97f367f1-8ef6-4cb6-bca4-e01f9c012634" />
+<img width="888" alt="图片" src="https://github.com/user-attachments/assets/51adf16f-3c28-4a7e-8a5f-2c188f5ff24b" />
+<img width="1029" alt="图片" src="https://github.com/user-attachments/assets/e96f7c2a-ba5f-4543-8e6a-7ad1b51a50bc" />
+<img width="770" alt="图片" src="https://github.com/user-attachments/assets/f414a840-1c78-413b-ad00-84075d16899f" />
+<img width="914" alt="图片" src="https://github.com/user-attachments/assets/3b796ce5-a834-42cf-ac22-e0fd8c80ff1d" />
+<img width="907" alt="图片" src="https://github.com/user-attachments/assets/262e3b9e-586b-4bd6-9ebb-6d66f4ab0cab" />
+<img width="881" alt="图片" src="https://github.com/user-attachments/assets/3a4ebbc9-4e80-4e96-941a-9bb9dbb6e26f" />
+<img width="1000" alt="图片" src="https://github.com/user-attachments/assets/a118422e-46f2-460f-9bf9-f2e676cba55e" />
+<img width="922" alt="图片" src="https://github.com/user-attachments/assets/650e0ac2-8ede-4532-921b-ed1541d65500" />
+
+
+### [段永平浙大分享的65条精华：本质、长远、做对的事情](https://www.digitaling.com/articles/1306262.html)
 
 ![](https://github.com/user-attachments/assets/27e5509b-121c-414b-a57f-1e098f48ed57)
 > “本质，长远，做对的事情，是在段永平在分享中出现频率最高的三个词汇。”‍‍‍‍

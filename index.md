@@ -39,8 +39,9 @@
 
 ```
 Chatbox，DeepSeek
+Kim，秘塔
 ChatGPT，Perplexity
-豆包，Kim，元宝
+豆包，元宝，通义，文小言
 ```
 
 

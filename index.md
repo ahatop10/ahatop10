@@ -1,4 +1,5 @@
 
+![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
 ![](https://github.com/user-attachments/assets/a3da8f12-146d-4da0-a558-83c4dd146660)
 > 身体、家庭、工作，投资，价值投资——<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
@@ -27,13 +28,40 @@
 
 ---
 
+![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
+> 投资顾问团
+
+```
+香帅，何刚，Guru（陈守红），但斌，任泽平
+李笑来，吴军，段永平（大道），顾均辉，Ray Dalio
+薛兆丰，吴伯凡，刘润，小Lin
+```
+
+```
+Chatbox，DeepSeek
+ChatGPT，Perplexity
+豆包，Kim，元宝
+```
+
+
 * [x] 2025.3.15
+* [x] 2025.3.23
 
 1. ⭐️⭐️⭐️⭐️ 强烈增持
 2. ⭐️⭐️⭐️增持
 3. ⭐️⭐️观望
 4. ☆☆☆中立
 5. ☆减持
+
+![](https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f)
+![](https://github.com/user-attachments/assets/8d6fd2b5-68b5-476c-b25c-4b800c231f83)
+![](https://github.com/user-attachments/assets/06b8a9b9-31b5-4766-a49c-1958bfda4792)
+> α收益示例，[不要爱上一家公司，而要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
+
+![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
+![](https://github.com/user-attachments/assets/8e6d4216-f106-43da-bec6-d57d77b578e7)
+![](https://github.com/user-attachments/assets/367b3aa5-b517-4e32-862e-31c40f7d20c6)
+> β收益示例
 
 ---
 

@@ -39,7 +39,7 @@
 
 ```
 Chatbox，DeepSeek
-Kim，秘塔
+Kim，秘塔，智谱清言
 ChatGPT，Perplexity
 豆包，元宝，通义，文小言
 ```

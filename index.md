@@ -37,6 +37,11 @@
 薛兆丰，吴伯凡，刘润，小Lin，卢克文，王烁
 ```
 
+
+![](https://github.com/user-attachments/assets/0d833adf-1823-4872-8363-61098b38cc02)
+![](https://github.com/user-attachments/assets/79928996-1247-45fe-9fcf-bb511e503966)
+> 工欲善其事必先利其器
+
 ```
 Chatbox，DeepSeek
 Kim，秘塔，智谱清言
@@ -286,4 +291,8 @@ A股：持股观望，ETF跌了可以补点仓
 
 科技七巨头PE已回落至2023年初水平
 中美科技股PE差距达40%，外资加速流入A股（南向资金年初净增370%）
+
+![](https://github.com/user-attachments/assets/7e7ba21a-e59f-46b8-ab33-16d2bdc37165)
+![](https://github.com/user-attachments/assets/679ee8ab-9ed1-4dfe-b6b8-c4f2c5c9fec9)
+![](https://github.com/user-attachments/assets/e725ed5d-868b-4200-92e4-c8922abcd935)
 

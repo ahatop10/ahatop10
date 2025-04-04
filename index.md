@@ -75,6 +75,5 @@ ChatGPT，Perplexity
 > β收益示例
 
 ![](https://github.com/user-attachments/assets/7e7ba21a-e59f-46b8-ab33-16d2bdc37165)
-![](https://github.com/user-attachments/assets/679ee8ab-9ed1-4dfe-b6b8-c4f2c5c9fec9)
 ![](https://github.com/user-attachments/assets/e725ed5d-868b-4200-92e4-c8922abcd935)
 

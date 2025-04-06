@@ -17,7 +17,7 @@
 3. 熟悉投资组合的优势，更需要深入了解可能面临的风险，才能真正与时代和伟大的企业并肩同行
 
 ![](https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f)
-> α收益示例，[不要爱上一家公司，而要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
+> α收益示例，[既要爱上一家公司，也要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
 
 ![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
 > β收益示例

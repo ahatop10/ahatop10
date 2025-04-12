@@ -1,6 +1,7 @@
 
+
 ![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
-> 身体、家庭、工作，投资
+> 身体、家庭、工作，投资；每一天，每一次，每一分，都重要
 
 ![](https://github.com/user-attachments/assets/a3da8f12-146d-4da0-a558-83c4dd146660)
 > 价值投资——<ins>收入=本金*(1+利率)<sup>时长</sup></ins>，价值投资有且只有4个核心理念：
@@ -39,7 +40,7 @@ Kim，秘塔，智谱清言
 ChatGPT，Perplexity
 豆包，元宝，通义，文小言
 财新，ftchinese，bbc，nytimes
-get笔记，bilibili
+get笔记——个人知识库
 ```
 
 ```

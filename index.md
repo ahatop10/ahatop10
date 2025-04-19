@@ -21,7 +21,7 @@
 > α收益示例，[既要爱上一家公司，又要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
 
 ![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
-> β收益示例
+> β收益示例，指数基金/ETF
 
 ---
 
@@ -64,7 +64,7 @@ get笔记——个人知识库
 * [x] 2025.4.04
 * [x] 2025.4.06
 * [x] 2025.4.12
-
+* [x] 2025.4.19
 
 
 

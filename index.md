@@ -10,6 +10,7 @@ A 锁定（资源池）-B 发射（建仓）-C 导航（调整）
 Common sense is not common（常识不常见）
 理性、想长远、不为清单······
 健康投资，智力投资，价值投资
+功能价值，情绪价值，资产价值
 ```
 
 
@@ -64,3 +65,7 @@ get笔记——个人知识库
 
 ---
 
+## Reference
+
+1. [李笑来](https://lixiaolai.com/#/)
+2. [段永平](https://github.com/iqiancheng/fastisslow)

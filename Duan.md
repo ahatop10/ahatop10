@@ -571,3 +571,14 @@
 
 100.分散是对无知的保护。
 
+
+[张昕帆：一次非常精彩的演讲.pdf](https://github.com/user-attachments/files/20271914/default.pdf)
+
+[段永平：不为清单（Stop Doing List）.pdf](https://github.com/user-attachments/files/20271916/Stop.Doing.List.pdf)
+
+[段永平：投资不怕集中，不是一般的集中， 而是绝对的集中.pdf](https://github.com/user-attachments/files/20271917/default.pdf)
+
+[段永平投资问答录(商业逻辑篇).pdf](https://github.com/user-attachments/files/20271915/default.pdf)
+
+[段永平投资问答录(投资逻辑篇).pdf](https://github.com/user-attachments/files/20271918/default.pdf)
+

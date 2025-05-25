@@ -1,6 +1,10 @@
 
 ## 段永平
 
+![](https://github.com/user-attachments/assets/d415513d-eb05-4ad8-8b12-fe9d88cfe6a9)
+![](https://github.com/user-attachments/assets/b5a69667-064b-4fc1-a41f-641c7afe5baa)
+
+
 用生命影响生命
 作者：泰戈尔
 把自己活成一道光，

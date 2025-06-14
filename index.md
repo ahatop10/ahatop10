@@ -70,3 +70,5 @@ Common sense is not common（常识不常见）
 
 1. [李笑来](https://lixiaolai.com/#/)
 2. [段永平](https://github.com/iqiancheng/fastisslow)
+3. [财新网](https://www.caixin.com/)
+4. [FT中文网(](https://www.ftchinese.com/)

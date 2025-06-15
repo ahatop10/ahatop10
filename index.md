@@ -58,6 +58,9 @@ get笔记——个人知识库
 ![](https://github.com/user-attachments/assets/2ee5dd63-1d00-4df7-8d21-8cb1d1f77e8c)
 > A 锁定（资源池）-B 发射（建仓）-C 导航（调整），投资的本质是放弃今天的消费换取未来更高的购买力
 
+![](https://github.com/user-attachments/assets/a0f9779e-5b12-4ec4-8e7a-baef14d06445)
+> 拐点已来，Ai & iP，健康、智力及关系...等投资，从复利到马太效应
+
 ```MY
 平常人很难有平常心
 Common sense is not common（常识不常见）
@@ -71,4 +74,4 @@ Common sense is not common（常识不常见）
 1. [李笑来](https://lixiaolai.com/#/)
 2. [段永平](https://github.com/iqiancheng/fastisslow)
 3. [财新网](https://www.caixin.com/)
-4. [FT中文网(](https://www.ftchinese.com/)
+4. [FT中文网](https://www.ftchinese.com/)

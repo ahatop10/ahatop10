@@ -59,7 +59,8 @@ get笔记——个人知识库
 > A 锁定（资源池）-B 发射（建仓）-C 导航（调整），投资的本质是放弃今天的消费换取未来更高的购买力
 
 ![](https://github.com/user-attachments/assets/a0f9779e-5b12-4ec4-8e7a-baef14d06445)
-> 拐点已来，Ai & iP，健康、智力及关系...等投资，从复利到马太效应
+![](https://github.com/user-attachments/assets/5691a794-4728-4aea-886e-330cd74652d6)
+> 拐点已来，Ai & iP，健康、智力及关系...投资，从复利到马太效应，从执行到创造
 
 ```MY
 平常人很难有平常心

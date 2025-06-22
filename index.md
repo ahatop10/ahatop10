@@ -72,9 +72,20 @@ Common sense is not common（常识不常见）
 功能价值，情绪价值，资产价值
 ```
 
+![](https://github.com/user-attachments/assets/80aabbe6-b372-4b31-ad40-b0ddce4e50c4)
+> 投资：用延迟今天的消费，来提高未来的购买力...
+
 ## Reference
 
 1. [李笑来](https://lixiaolai.com/#/)
 2. [段永平](https://github.com/iqiancheng/fastisslow)
-3. [财新网](https://www.caixin.com/)
-4. [FT中文网](https://www.ftchinese.com/)
+3. [顾均辉](https://www.gujunhui.com/)
+4. [财新网](https://www.caixin.com/)
+5. [FT中文网](https://www.ftchinese.com/)
+6. [ChatGPT](https://chatgpt.com/)
+7. [Perplexity](https://www.perplexity.ai/)
+8. [秘塔AI](https://metaso.cn/)
+9. [DeepSeek](https://www.deepseek.com/)
+10. [元宝](https://yuanbao.tencent.com/chat/)
+11. [豆包](https://www.doubao.com/chat/)
+12. [MiniMax](https://agent.minimax.io/)

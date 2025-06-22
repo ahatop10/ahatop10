@@ -61,7 +61,7 @@ get笔记——个人知识库
 ![](https://github.com/user-attachments/assets/a0f9779e-5b12-4ec4-8e7a-baef14d06445)
 > 拐点已来，Ai & iP，健康、智力及关系...投资，从复利到马太效应，从执行到创造
 
-![](https://github.com/user-attachments/assets/65c9105c-691a-487d-a914-2a4627483707)
+![](https://github.com/user-attachments/assets/5e8f3fb8-464e-4fc1-9e96-9d54958d34e7)
 > 从β到 α，从农业到工业，再到数字时代，资本+认知打底，辅助以趋势+时间...
 
 ```MY

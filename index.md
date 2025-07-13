@@ -19,9 +19,12 @@
 3. 熟悉投资组合的优势，更需要深入了解可能面临的风险，才能真正与时代和伟大的企业并肩同行
 
 ![](https://github.com/user-attachments/assets/5ea14f04-1e28-482a-b407-ead4004fb92f)
+![](https://github.com/user-attachments/assets/06ef3a48-fdd6-457b-9000-871f7b626bf0)
+![](https://github.com/user-attachments/assets/bbaf2fe8-a5d9-4ec4-bbfc-541e1c657239)
 > α收益示例，[既要爱上一家公司，又要爱上它的价格](https://finance.sina.com.cn/roll/2024-11-22/doc-incwxxhe3820160.shtml)。
 
-![](https://github.com/user-attachments/assets/b0116576-cee2-4525-bffa-7f6652f2c4c6)
+![](https://github.com/user-attachments/assets/cae753b1-8ec7-4577-b628-634bc1d0f38a)
+![](https://github.com/user-attachments/assets/9e36a2bf-2274-43ef-97d4-b9caba482d2b)
 > β收益示例，指数基金/ETF，[所谓长期投资](https://mp.weixin.qq.com/s/VxbhRmntzpgZd5HN-SFR3Q)，从某种角度上说，就是要能够相信坚持做对的事情的、有能力的公司，最后会把事情做对。
 
 ---
@@ -65,6 +68,9 @@ get笔记——个人知识库
 > 从β到 α，从农业到工业，再到数字时代，资本+认知打底，辅助以趋势+时间...
 
 ```MY
+美股：科技股，股指基金
+港股：科技股
+A 股：基金+ETF
 平常人很难有平常心
 Common sense is not common（常识不常见）
 理性、想长远、不为清单······

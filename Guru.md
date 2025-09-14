@@ -5,7 +5,7 @@
 
 ## 格隆
 
-一、格隆对2025年宏观趋势的核心判断
+### 一、格隆对2025年宏观趋势的核心判断
 
 根据格隆发布的《2025中国十一大经济趋势展望》，核心预测如下：
 
@@ -26,7 +26,7 @@ A股潜在涨幅 = 盈利增长（8%）+ 估值修复（7%）≈ 15%
 政策宽松力度：财政赤字率（4%）+ 利率下调（40基点）+ 货币供应量（M2）增速维持高位
 
 
-二、对普通人的投资建议
+### 二、对普通人的投资建议
 
 <img width="1271" alt="图片" src="https://github.com/user-attachments/assets/ab16bd8e-6df2-48c4-8799-6f14891c4045" />
 
@@ -51,3 +51,34 @@ A股潜在涨幅 = 盈利增长（8%）+ 估值修复（7%）≈ 15%
 简单工具：普通人优先选择指数基金、ETF等低门槛工具，避免复杂衍生品。
 定期复盘：每季度检查股债比例，再平衡至初始配置，锁定收益并降低风险。
 关键提醒：2025年市场核心矛盾是“政策宽松 VS 经济减速”，普通人需在乐观中保持谨慎，用纪律性策略应对不确定性。
+
+
+
+### [格隆博士万字雄文：这会是我们这代人最纠结的一轮牛市吗？](https://mp.weixin.qq.com/s/JQ3Fkg_dtaleokxucW4YgA?click_id=2)
+
+<img width="632" height="957" alt="图片" src="https://github.com/user-attachments/assets/8ff1791c-9df8-4a3f-8c27-72c8c8aea37d" />
+<img width="863" height="1454" alt="图片" src="https://github.com/user-attachments/assets/a01e34f8-bd75-4f1b-99b7-801a792f5aa6" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/c5e625d6-6af8-42ac-8a4d-bab906caa4a1" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/11d19437-fd96-4bc3-a97c-353b2db7ffb7" />
+<img width="865" height="557" alt="图片" src="https://github.com/user-attachments/assets/86354744-b8c9-4559-9941-de16d077cdde" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/91e31adf-7015-4a50-88f3-7f2fd5bbc3da" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/faec6954-9ad3-4d0b-afd1-db9b59ef4b98" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/3c28a9d9-4069-45db-8ad8-d8660985febe" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/52804e6f-78ec-4a75-b612-164501687d60" />
+<img width="865" height="599" alt="图片" src="https://github.com/user-attachments/assets/7d1a26de-29a6-416a-9c0e-e6cd39662fa6" />
+<img width="865" height="786" alt="图片" src="https://github.com/user-attachments/assets/f829e1df-6079-4e5d-8567-ed0bbdae3070" />
+
+
+当前A股市场的牛市行情背后隐藏着深层次的矛盾与机遇，其核心驱动力可总结为以下三点：
+
+一、"时代补偿"驱动的流动性再配置
+
+过去40年中国货币超发（M2年复合增速17.9%）主要流向房地产等实物资产，而股市长期被边缘化。当前房地产、固收理财等传统资产收益率持续走低（十年期国债收益率1.7%、三年定存1.25%），居民160万亿存款在利率下行背景下被迫转向股市寻求保值。这种"资产荒"下的被动选择，使得权益市场成为货币蓄水池的最终承接者，形成"蜀中无大将，廖化做先锋"的补偿性行情。
+
+二、科技革命作为"时代救赎"的底层逻辑
+
+全球正面临货币/政治/地缘秩序的系统性崩溃，AI革命成为人类自我救赎的集体赌注。历史规律显示，科技革命会推动股市风险偏好提升并长期背离基本面（如90年代互联网泡沫）。A股电子行业市值已超越银行，寒武纪等科技公司估值可能超越茅台，反映市场对"新经济"的极端押注。这种救赎机制类似人体危机时的自我调节——通过牺牲旧产业（如房地产）来保障新增长极（如AI）的血液供给。
+
+三、消费转型困境决定牛市可持续性
+
+当前牛市面临的根本矛盾在于：1）居民资产负债表受损（房产占资产69%，净资产较高点缩水1/3）；2）债务收入比达142.4%的"沼泽红线"，抑制消费能力；3）人口结构恶化导致"生产-消费"循环断裂（2040年2.4个劳动力养1个老人）。若不能通过分配改革（政府-居民、国企-民企、中央-地方资源再平衡）完成消费型社会转型，牛市终将因基本面脱节而难以为继。这轮行情本质是"预支繁荣"后的补偿，而非健康经济循环的结果。

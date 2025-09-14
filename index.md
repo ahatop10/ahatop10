@@ -6,6 +6,12 @@
 ![](https://github.com/user-attachments/assets/a3da8f12-146d-4da0-a558-83c4dd146660)
 > 价值投资——<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 
+```
+1. 从劳动收入到资本收入
+2. 从主动收入到被动收入
+3. 从短期收益到长期收益
+```
+
 **价值投资有且只有4个核心理念：**
 
 1. 股票是对公司的部分所有权，市盈率是否高，行业及公司前景是否好，有没有护城河，Ri­g­ht：Bu­s­i­n­e­ss + Pe­o­p­le + Pr­i­ce
@@ -16,7 +22,7 @@
 ![](https://github.com/user-attachments/assets/43e91936-d12f-47ff-9173-430b878faca9)
 > 买在无人问津处，卖在人声鼎沸时
 
-**何以解忧，唯有定投，企业健康最重要，不要在乎大小，要着眼于脚踏实地**
+**定投，企业健康最重要，不要在乎大小，要着眼于脚踏实地**
 
 1. 价值投资最艰难的挑战，就是永远要在“承受波动”与“规避亏损”之间做出判断
 2. 投资者对长期判断有足够的定力，不为市场的噪音和情绪所干扰；也能随时正视现实，**在出现反面证据或重大风险时，果断调整**
@@ -39,24 +45,12 @@
 > 投资顾问团，资产配置，**睡后收入**
 
 ```
-李笑来，段永平（大道），吴军，但斌，Guru（陈守红）
+李笑来，段永平（大道），吴军，但斌，Guru（陈守红），蔡钰
 香帅，何刚，任泽平，吴晓波，顾均辉，Ray Dalio
 薛兆丰，吴伯凡，刘润，小Lin说，卢克文，王烁
 ```
 
 **我们长期努力保持不做傻事，所以我们的收获比那些努力做聪明事的人要多得多。”——芒格**
-
-```
-ChatGPT，Perplexity，Gemini
-秘塔，DeepSeek，元宝
-财新，ftchinese，get笔记
-```
-
-```
-多邻国，流利说，有道词典
-不背单词，百词斩，墨墨背单词
-厚大、觉晓、众合、竹马
-```
 
 ---
 
@@ -113,15 +107,17 @@ ChatGPT，Perplexity，Gemini
 ## Reference
 
 1. [李笑来](https://lixiaolai.com/#/)
-2. [段永平](https://github.com/iqiancheng/fastisslow)
-3. [顾均辉](https://www.gujunhui.com/)
-4. [财新网](https://www.caixin.com/)
-5. [FT中文网](https://www.ftchinese.com/)
-6. [ChatGPT](https://chatgpt.com/)
-7. [Perplexity](https://www.perplexity.ai/)
-8. [Gemini](https://chat.closechat.org/#/c/new)
-9. [秘塔AI](https://metaso.cn/)
-10. [DeepSeek](https://www.deepseek.com/)
-11. [元宝](https://yuanbao.tencent.com/chat/)
-12. [豆包](https://www.doubao.com/chat/)
-13. [MiniMax](https://agent.minimax.io/)
+2. [段永平]([https://github.com/iqiancheng/fastisslow](https://xueqiu.com/u/1247347556?md5__1038=28178cb220-7Sj6f6QTpuP_Tr4P0VJ7TxlTzTgTHauxJYe4YXu27UEYXUHjcr8S37GHSx4reerztTllTXuTPCTlUPqTjUTK4T0STBTJc6TD6JlTM6TeTB6T4TnK6Pz46kiJsTJyJaTh3JRM9ygYTCxJGTM3TDiUJD73ToTM4wTMWOwQpCT36iNJJSJ7WSPP37jM2n1PZuSTjukPT))
+3. [但斌](https://xueqiu.com/u/1102105103?md5__1038=28178cb220-kSZ6861Tj6Z62TYig_T7TwJTtpOdmd216s6wSE5iTr%2FTQkQJr6kUvIvwy6g0BTG6MeTy6lMvTMzTTdTh3JulTPlTLyO3T5TMWqTV6P4TpeyP%2FTP3gOT8Y_JsBdTg7V61qsImldyPOy%2FUl4TbIU4hxyOnTUBOE6_HpSBqEjyul03OEyiwerIZv06T)
+4. [顾均辉](https://www.gujunhui.com/)
+5. [Guru（陈守红）](https://mp.weixin.qq.com/s/JQ3Fkg_dtaleokxucW4YgA)
+6. [财新网](https://www.caixin.com/)
+7. [FT中文网](https://www.ftchinese.com/)
+8. [ChatGPT](https://chatgpt.com/)
+9. [Perplexity](https://www.perplexity.ai/)
+10. [Gemini](https://chat.closechat.org/#/c/new)
+11. [秘塔AI](https://metaso.cn/)
+12. [DeepSeek](https://www.deepseek.com/)
+13. [元宝](https://yuanbao.tencent.com/chat/)
+14. [豆包](https://www.doubao.com/chat/)
+15. [MiniMax](https://agent.minimax.io/)

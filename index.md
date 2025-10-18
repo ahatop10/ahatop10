@@ -1,5 +1,4 @@
 
-
 ![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
 > 身体、家庭、工作，投资；每一天，每一次，每一分，都重要
 
@@ -103,7 +102,7 @@
 
 
 ![](https://github.com/user-attachments/assets/63b794ae-0363-42f4-8c4c-dd9d634cf569)
-> **投资的本质是放弃今天的消费换取未来更高的购买力**
+> **投资的本质是放弃今天的消费换取未来更高的购买力**，既要开源，又要节流
 
 ## Reference
 

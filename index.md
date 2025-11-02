@@ -72,6 +72,9 @@
 ![](https://github.com/user-attachments/assets/aa0d1268-4bd7-4c5c-a723-624df9186eea)
 > Gordon Dividend Growth Model: 一个资产的价值，或者基本价值，就取决于你未来创造的价值，或者说现金流。然后考虑到你的增速，就是未来你所有现金流加总起来的总和，然后贴现回今天的值。
 
+![](https://github.com/user-attachments/assets/bd41e0c8-f34c-4208-9841-f44c55ad1391)
+![](https://github.com/user-attachments/assets/00b46289-d323-411a-86e7-463fb6c7f8d0)
+> 行业价值（规模性，竞争性），管理价值（方向感，稳定性），运营价值（盈利性，风控力）
 
 **——综合赛道**
 1. 伯克希尔股票

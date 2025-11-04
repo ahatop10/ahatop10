@@ -114,9 +114,15 @@
 ![](https://github.com/user-attachments/assets/2ee5dd63-1d00-4df7-8d21-8cb1d1f77e8c)
 > A 锁定（资源池）-B 发射（建仓）-C 导航（调整）
 
+![](https://github.com/user-attachments/assets/62ba3a1a-c0f5-4303-9626-ba43abe52714)
+> **复利**，不积硅步，无以至千里
 
 ![](https://github.com/user-attachments/assets/63b794ae-0363-42f4-8c4c-dd9d634cf569)
 > **投资的本质是放弃今天的消费换取未来更高的购买力**，既要开源，又要节流，存量与增量
+
+![](https://github.com/user-attachments/assets/6c7d242a-e404-44f6-9939-0b1ae64f5213)
+> **危机的本质在于债务**，一连串连锁反应，危机像雪球越滚越大
+
 
 ## Reference
 

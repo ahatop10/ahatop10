@@ -19,7 +19,7 @@ GDP目标：预计2025年中国GDP增速维持在4.5%-5%，核心目标是“稳
 。
 新动能：人工智能、绿色经济、数字经济成为关键增长引擎。
 
-<img width="747" alt="" src="https://github.com/user-attachments/assets/28504e92-b0c5-4d0b-bf5b-732f45265f2d" />
+![](https://github.com/user-attachments/assets/28504e92-b0c5-4d0b-bf5b-732f45265f2d)
 
 对普通人的投资理财建议
 1. 基本原则
@@ -52,4 +52,6 @@ GDP增速公式：
 抓政策红利：关注财政发力的消费、科技领域；
 控风险：分散配置，避免高杠杆和单一资产；
 长期思维：定投指数基金，忽略短期波动。
+
+![](https://github.com/user-attachments/assets/1c03aa2d-a0a0-45b1-b840-8dd65276dc58)
 

@@ -118,6 +118,10 @@
 ![](https://github.com/user-attachments/assets/2ee5dd63-1d00-4df7-8d21-8cb1d1f77e8c)
 > A 锁定（资源池）-B 发射（建仓）-C 导航（调整）
 
+
+![](https://github.com/user-attachments/assets/e8d92a1b-6d24-410c-a2f2-6ac866e13073)
+> **时间-风险-杠杆**
+
 ![](https://github.com/user-attachments/assets/63b794ae-0363-42f4-8c4c-dd9d634cf569)
 > **投资的本质是放弃今天的消费换取未来更高的购买力**，既要开源，又要节流，存量与增量
 

@@ -120,7 +120,7 @@
 
 
 ![](https://github.com/user-attachments/assets/e8d92a1b-6d24-410c-a2f2-6ac866e13073)
-> **时间-风险-杠杆**
+> **时间-风险-杠杆**  Run，就是危机的本质，金融危机的就是资金的run
 
 ![](https://github.com/user-attachments/assets/63b794ae-0363-42f4-8c4c-dd9d634cf569)
 > **投资的本质是放弃今天的消费换取未来更高的购买力**，既要开源，又要节流，存量与增量

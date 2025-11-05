@@ -73,7 +73,7 @@
 
 ---
 
-![](https://github.com/user-attachments/assets/aa0d1268-4bd7-4c5c-a723-624df9186eea)
+![](https://github.com/user-attachments/assets/d503006a-0a15-4cd3-a65a-b5f6d5b71cd7)
 > Gordon Dividend Growth Model: 一个资产的价值，或者基本价值，就取决于你未来创造的价值，或者说现金流。然后考虑到你的增速，就是未来你所有现金流加总起来的总和，然后贴现回今天的值。
 
 ![](https://github.com/user-attachments/assets/bd41e0c8-f34c-4208-9841-f44c55ad1391)

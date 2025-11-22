@@ -48,6 +48,9 @@
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 > 投资顾问团，资产配置，**睡后收入**
 
+![](https://github.com/user-attachments/assets/51ce12b2-49c8-41d2-952b-c87e948c9e59)
+> 被动收入
+
 ```
 李笑来，段永平（大道），吴军，但斌，Guru（陈守红），蔡钰
 香帅，何刚，任泽平，吴晓波，顾均辉，Ray Dalio
@@ -71,6 +74,9 @@
 ![](https://github.com/user-attachments/assets/bd41e0c8-f34c-4208-9841-f44c55ad1391)
 ![](https://github.com/user-attachments/assets/00b46289-d323-411a-86e7-463fb6c7f8d0)
 > 行业价值（规模性，竞争性），管理价值（方向感，稳定性），运营价值（盈利性，风控力）
+
+![](https://github.com/user-attachments/assets/ecd2bead-62ea-4a7b-9e1a-bb6c5bc24633)
+> 段永平持仓
 
 **——综合赛道**
 1. 伯克希尔股票
@@ -220,6 +226,9 @@
 “我之所以成为我，很大原因是不做那些不懂的事。” 这种“克制”与“清醒”，正是段永平投资成功的核心密码。
 
 ```
+
+![](https://github.com/user-attachments/assets/8bdb4b32-8c9b-4182-be39-acfb705c00fb)
+> 本分
 
 
 ## Reference

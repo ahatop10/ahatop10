@@ -159,6 +159,9 @@
 
 ![](https://github.com/user-attachments/assets/6f0287f6-56bf-462b-a625-e439503e735d)
 ![](https://github.com/user-attachments/assets/5d13935c-04c4-4684-abb5-9af812532634)
+![](https://github.com/user-attachments/assets/ecc51b63-39b2-4fa0-b78f-e3cc563d8fe4)
+![](https://github.com/user-attachments/assets/e19f339f-639b-4f95-83c2-2bdf8f060d06)
+> 段永平：生意模式（未来现金流） + 企业文化（本分） + 合适价格（定投）
 
 
 ![](https://github.com/user-attachments/assets/9087bdde-710f-4cb6-858b-e356395b35c8)
@@ -170,7 +173,8 @@
 ![](https://github.com/user-attachments/assets/98bf3f38-3f0a-4678-956e-bb9435c2d643)
 ![](https://github.com/user-attachments/assets/ae376a82-ae2c-405a-b9f1-bc2f4f141e14)
 ![](https://github.com/user-attachments/assets/783ed0da-b326-4344-b41b-31b21ebbb745)
-![](https://github.com/user-attachments/assets/e19f339f-639b-4f95-83c2-2bdf8f060d06)
+> 但斌：与伟大企业同行，欣赏及享受时间的玫瑰
+
 
 
 ## Reference
@@ -185,7 +189,12 @@
 接下来可以观察两个事情：
 1. 美国宏观环境——宽松环境会相对让泡沫期持续更久；
 2. 是否出现新叙事——比如应用层商业化出现新曙光，或者技术路线出现新突破。
+
+巴菲特常在高位买入股票，但他长期持有，因此短期价格波动不重要。真正值得投资的股票，是那些能带来长期复合增长的机会，而不是短期投机。
+在未来20年，人工智能将像摩尔定律一样成为趋势，早晚加入都无大差别。
+企业或国家一旦掌握趋势，就会持续发展，尽管过程中可能有波动。最终，理性思维比具体知识更能决定一个人的成功。
 ```
+
 
 1. [李笑来](https://lixiaolai.com/#/)
 2. [段永平]([https://github.com/iqiancheng/fastisslow](https://xueqiu.com/u/1247347556?md5__1038=28178cb220-7Sj6f6QTpuP_Tr4P0VJ7TxlTzTgTHauxJYe4YXu27UEYXUHjcr8S37GHSx4reerztTllTXuTPCTlUPqTjUTK4T0STBTJc6TD6JlTM6TeTB6T4TnK6Pz46kiJsTJyJaTh3JRM9ygYTCxJGTM3TDiUJD73ToTM4wTMWOwQpCT36iNJJSJ7WSPP37jM2n1PZuSTjukPT))

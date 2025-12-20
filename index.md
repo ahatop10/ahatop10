@@ -173,9 +173,19 @@
 ![](https://github.com/user-attachments/assets/e19f339f-639b-4f95-83c2-2bdf8f060d06)
 
 
-
-
 ## Reference
+
+
+![](https://github.com/user-attachments/assets/37b5dce0-f9a8-4003-bf58-51f0c159db76)
+> [AI 炒股](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
+
+```
+现在的美股AI行情，到底是不是泡沫？有没有走到要破裂的阶段？
+香帅：处于泡沫形成期，而不是破裂期，但已进入高风险扩张阶段。
+接下来可以观察两个事情：
+1. 美国宏观环境——宽松环境会相对让泡沫期持续更久；
+2. 是否出现新叙事——比如应用层商业化出现新曙光，或者技术路线出现新突破。
+```
 
 1. [李笑来](https://lixiaolai.com/#/)
 2. [段永平]([https://github.com/iqiancheng/fastisslow](https://xueqiu.com/u/1247347556?md5__1038=28178cb220-7Sj6f6QTpuP_Tr4P0VJ7TxlTzTgTHauxJYe4YXu27UEYXUHjcr8S37GHSx4reerztTllTXuTPCTlUPqTjUTK4T0STBTJc6TD6JlTM6TeTB6T4TnK6Pz46kiJsTJyJaTh3JRM9ygYTCxJGTM3TDiUJD73ToTM4wTMWOwQpCT36iNJJSJ7WSPP37jM2n1PZuSTjukPT))
@@ -192,3 +202,4 @@
 13. [元宝](https://yuanbao.tencent.com/chat/)
 14. [豆包](https://www.doubao.com/chat/)
 15. [MiniMax](https://agent.minimax.io/)
+16. [大模型构建 HTML 工具的实用方法](https://simonwillison.net/2025/Dec/10/html-tools/)

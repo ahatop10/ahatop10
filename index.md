@@ -184,21 +184,25 @@
 > [AI 炒股](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
 
 ```
+
 现在的美股AI行情，到底是不是泡沫？有没有走到要破裂的阶段？
 香帅：处于泡沫形成期，而不是破裂期，但已进入高风险扩张阶段。
 接下来可以观察两个事情：
 1. 美国宏观环境——宽松环境会相对让泡沫期持续更久；
 2. 是否出现新叙事——比如应用层商业化出现新曙光，或者技术路线出现新突破。
 
-巴菲特常在高位买入股票，但他长期持有，因此短期价格波动不重要。真正值得投资的股票，是那些能带来长期复合增长的机会，而不是短期投机。
+巴菲特常在高位买入股票，但他长期持有，因此短期价格波动不重要。
+真正值得投资的股票，是那些能带来长期复合增长的机会，而不是短期投机。
 在未来20年，人工智能将像摩尔定律一样成为趋势，早晚加入都无大差别。
-企业或国家一旦掌握趋势，就会持续发展，尽管过程中可能有波动。最终，理性思维比具体知识更能决定一个人的成功。
+企业或国家一旦掌握趋势，就会持续发展，尽管过程中可能有波动。
+最终，理性思维比具体知识更能决定一个人的成功。
+
 ```
 
 
 1. [李笑来](https://lixiaolai.com/#/)
-2. [段永平]([https://github.com/iqiancheng/fastisslow](https://xueqiu.com/u/1247347556?md5__1038=28178cb220-7Sj6f6QTpuP_Tr4P0VJ7TxlTzTgTHauxJYe4YXu27UEYXUHjcr8S37GHSx4reerztTllTXuTPCTlUPqTjUTK4T0STBTJc6TD6JlTM6TeTB6T4TnK6Pz46kiJsTJyJaTh3JRM9ygYTCxJGTM3TDiUJD73ToTM4wTMWOwQpCT36iNJJSJ7WSPP37jM2n1PZuSTjukPT))
-3. [但斌](https://xueqiu.com/u/1102105103?md5__1038=28178cb220-kSZ6861Tj6Z62TYig_T7TwJTtpOdmd216s6wSE5iTr%2FTQkQJr6kUvIvwy6g0BTG6MeTy6lMvTMzTTdTh3JulTPlTLyO3T5TMWqTV6P4TpeyP%2FTP3gOT8Y_JsBdTg7V61qsImldyPOy%2FUl4TbIU4hxyOnTUBOE6_HpSBqEjyul03OEyiwerIZv06T)
+2. [段永平]([https://github.com/iqiancheng/fastisslow](https://xueqiu.com/u/1247347556)
+3. [但斌](https://xueqiu.com/u/1102105103)
 4. [顾均辉](https://www.gujunhui.com/)
 5. [Guru（陈守红）](https://mp.weixin.qq.com/s/JQ3Fkg_dtaleokxucW4YgA)
 6. [财新网](https://www.caixin.com/)

@@ -201,7 +201,7 @@
 
 
 1. [李笑来](https://lixiaolai.com/#/)
-2. [段永平]([https://github.com/iqiancheng/fastisslow](https://xueqiu.com/u/1247347556)
+2. [段永平](https://xueqiu.com/u/1247347556)
 3. [但斌](https://xueqiu.com/u/1102105103)
 4. [顾均辉](https://www.gujunhui.com/)
 5. [Guru（陈守红）](https://mp.weixin.qq.com/s/JQ3Fkg_dtaleokxucW4YgA)

@@ -138,6 +138,8 @@
 
 ![](https://github.com/user-attachments/assets/6781b30d-5ba4-4e6d-908c-60e03cfbb0ba)
 
+---
+
 ```
 
 段永平投资核心：以 “价值创造” 与 “长期主义” 为核心，靠认知赚企业成长的 “慢钱”，“克制” 与 “清醒” 是成功密码。
@@ -175,7 +177,7 @@
 ![](https://github.com/user-attachments/assets/783ed0da-b326-4344-b41b-31b21ebbb745)
 > 但斌：与伟大企业同行，欣赏及享受时间的玫瑰
 
-
+---
 
 ## Reference
 
@@ -199,6 +201,28 @@
 
 ```
 
+---
+
+![](https://github.com/user-attachments/assets/31371827-5f6b-4a02-9d06-6f38b844ff79)
+![](https://github.com/user-attachments/assets/5b5d5f8f-574f-4779-a53d-7dbd473a6c17)
+![](https://github.com/user-attachments/assets/e4dddb17-51f7-4bdf-9ec9-920f92f03507)
+![](https://github.com/user-attachments/assets/cece7108-9bc8-43c6-812a-8b33f722546a)
+![](https://github.com/user-attachments/assets/9a2af11c-2814-44aa-9a05-7391ac4cacf8)
+![](https://github.com/user-attachments/assets/ea38d899-cc2b-413e-9c14-7dda807281e4)
+![](https://github.com/user-attachments/assets/c536c138-47d9-4ed8-a09b-f6c234290e5c)
+![](https://github.com/user-attachments/assets/2de2987e-26b1-49a9-86ff-24761783e7f0)
+![](https://github.com/user-attachments/assets/8a84ecc9-7130-48cd-9dfb-e090073841e0)
+![](https://github.com/user-attachments/assets/dcc8add0-0a21-4cd0-b084-5d39b7eba6ba)
+![](https://github.com/user-attachments/assets/e9c9d5b0-bc91-42e4-acf3-3926ef61258b)
+![](https://github.com/user-attachments/assets/df9f211f-d6f5-4640-8e02-14533474ceff)
+![](https://github.com/user-attachments/assets/78f98b7d-d5a5-4dad-93f9-82d6c4ca4f50)
+![](https://github.com/user-attachments/assets/0d1bd703-e0ec-48a8-8cab-b890a9edafef)
+![](https://github.com/user-attachments/assets/3c9c1a13-0b78-40d4-8bc2-d752e3493c0c)
+![](https://github.com/user-attachments/assets/af1558bf-45c2-4463-8c8f-cd6ce65c6f5d)
+![](https://github.com/user-attachments/assets/f848299b-870e-4a73-9126-a6300561f167)
+> 选择大于努力，趋势大于选择
+
+---
 
 1. [李笑来](https://lixiaolai.com/#/)
 2. [段永平](https://xueqiu.com/u/1247347556)

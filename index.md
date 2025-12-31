@@ -3,12 +3,18 @@
 ![](https://github.com/user-attachments/assets/ae8da299-1830-4a9a-b184-e8a5f8d082e0)
 > 身体、家庭、工作，投资
 
+**[所谓长期投资](https://mp.weixin.qq.com/s/VxbhRmntzpgZd5HN-SFR3Q)，从某种角度上说，就是要能够相信坚持做对的事情的、有能力的公司，最后会把事情做对。**
+
+```长期价值
+因相信而看见
+因看见而坚持
+从量变到质变
+从频繁到不动
+从分散到集中
+```
+
 ![](https://github.com/user-attachments/assets/a3da8f12-146d-4da0-a558-83c4dd146660)
 > <ins>收入=本金*(1+利率)<sup>时长</sup></ins>
-
-**我们长期努力保持不做傻事，所以我们的收获比那些努力做聪明事的人要多得多。”——芒格**
-
-**[所谓长期投资](https://mp.weixin.qq.com/s/VxbhRmntzpgZd5HN-SFR3Q)，从某种角度上说，就是要能够相信坚持做对的事情的、有能力的公司，最后会把事情做对。**
 
 ```
 1. 从劳动收入到资本收入
@@ -53,11 +59,7 @@
 ![](https://github.com/user-attachments/assets/51ce12b2-49c8-41d2-952b-c87e948c9e59)
 > 被动收入
 
-```
-李笑来，段永平（大道），吴军，但斌，Guru（陈守红），蔡钰
-香帅，何刚，任泽平，吴晓波，顾均辉，Ray Dalio
-薛兆丰，吴伯凡，刘润，小Lin说，卢克文，王烁
-```
+
 
 ---
 
@@ -80,40 +82,77 @@
 ![](https://github.com/user-attachments/assets/ecd2bead-62ea-4a7b-9e1a-bb6c5bc24633)
 > 段永平持仓
 
-**——综合赛道**
-1. 伯克希尔股票
-2. 美股市场的SPY或者IVV或标普500ETF
-3. 香港交易所股票或恒生科技ETF
-4. 沪深300ETF基金或科创50ETF龙头基金
-5. 黄金或黄金ETF或银行ETF
-6. 人工智能ETF或储能电池ETF或机器人ETF
-7. 德国ETF或法国CAC40ETF或日经ETF
+```
+苹果(AAPL)
+伯克希尔(BRK.B)
+拼多多(PDD)
+西方石油(OXY)
+阿里巴巴(BABA)
+谷歌(G00G)
+微软(MSFT)
+英伟达(NVDA)
+迪土尼(DIS)
+阿斯麦(ASML)
+台积电(TSM)
+```
 
-**——美国AI赛道**
-1. 英伟达股票
-2. 博通股票
-3. 台积电股票
-4. 谷歌股票
-5. 微软股票
+![](https://github.com/user-attachments/assets/39eacb2a-4240-4fb5-8a60-4481c3f42fe3)
+> 但斌持仓
 
-**——美国生活赛道**
-1. 苹果股票
-2. 特斯拉股票
-3. 亚马逊股票
-4. META股票
+```
+NVDA英伟达
+GOOG谷歌C
+FNGU3倍做多FANG+指数ETN
+TQQQ3倍做多纳斯达克100ETF
+META Meta
+MSFT 微软
+TSLA 特斯拉
+AAPL 苹果
+COIN COINBASE GLOBAL
+BABA 阿里巴巴
+AMZN 亚马逊
+NFLX 奈飞
+ALAB ASTERA LABS
+BMNRD Bitmine Immersion Technologies
+AVGO 博通
+GGLL Direxion2倍做多每日GOOGL ETF
+TSM台积电
+```
 
-**——中国AI赛道**
-1. 腾讯股票
-2. 阿里巴巴股票
-3. 京东股票
-4. 美团股票
-5. 百度股票
+> ahaip的TOP系列，优先高盈利，轻资产的平台型企业
 
-**——中国新能源赛道**
-1. 宁德时代股票
-2. 比亚迪股票
-3. 理想或小米
-4. 小鹏或蔚来
+```美股
+谷歌(G00G)
+微软(MSFT)
+苹果(AAPL)
+英伟达(NVDA)
+台积电(TSM)
+阿里巴巴(BABA)
+伯克希尔(BRK.B)
+```
+
+```A/H股
+阿里巴巴
+百度
+腾讯
+美团
+京东
+宁德时代
+比亚迪
+小米
+理想
+小鹏
+蔚来
+```
+
+```指数/ETF
+美股SPY或者IVV或标普500ETF
+香港交易所股票或恒生科技ETF
+沪深300ETF基金或科创50ETF龙头基金
+人工智能ETF或储能电池ETF或机器人ETF
+德国ETF或法国CAC40ETF或日经ETF
+```
+
 
 ![](https://github.com/user-attachments/assets/2ee5dd63-1d00-4df7-8d21-8cb1d1f77e8c)
 > A 锁定（资源池）-B 发射（建仓）-C 导航（调整）
@@ -138,44 +177,6 @@
 
 ![](https://github.com/user-attachments/assets/6781b30d-5ba4-4e6d-908c-60e03cfbb0ba)
 
----
-
-```
-
-段永平投资核心：以 “价值创造” 与 “长期主义” 为核心，靠认知赚企业成长的 “慢钱”，“克制” 与 “清醒” 是成功密码。
-
-核心逻辑与原则
-投资本质：买股票 = 做企业股东，赚公司内在价值增长的钱，而非短期股价波动。
-安全前提：守好能力圈（不懂不投），深度理解企业的生意模式、文化及现金流是关键。
-核心标尺：用未来现金流折现评估价值，好公司（对的生意 + 对的人）比好价格更重要。
-
-关键动作
-长期主义：以 10 年维度持有，像 “种田” 般耐心等待。
-逆向操作：别人恐慌时加仓（价格低估），狂热时离场（价格高估）。
-理性聚焦：控制情绪，集中投资于高置信标的。
-
-底层逻辑
-做对的事（选好公司、不做空 / 加杠杆），把事做对（错投及时止损），不追热点，只琢磨生意本质。
-
-```
-
-![](https://github.com/user-attachments/assets/6f0287f6-56bf-462b-a625-e439503e735d)
-![](https://github.com/user-attachments/assets/5d13935c-04c4-4684-abb5-9af812532634)
-![](https://github.com/user-attachments/assets/ecc51b63-39b2-4fa0-b78f-e3cc563d8fe4)
-![](https://github.com/user-attachments/assets/e19f339f-639b-4f95-83c2-2bdf8f060d06)
-> 段永平：生意模式（未来现金流） + 企业文化（本分） + 合适价格（定投）
-
-
-![](https://github.com/user-attachments/assets/9087bdde-710f-4cb6-858b-e356395b35c8)
-![](https://github.com/user-attachments/assets/1433f031-f418-41a1-8417-c2d6dfa56f70)
-![](https://github.com/user-attachments/assets/61cc6f73-942f-44cc-a81f-b53f7e72d48c)
-![](https://github.com/user-attachments/assets/25a98500-d595-42e5-a5d6-f9245c422bfc)
-![](https://github.com/user-attachments/assets/493beaa2-8128-4ff8-b44d-88de573dc690)
-![](https://github.com/user-attachments/assets/3f3792e9-ecf7-496d-94d2-35753dfe1176)
-![](https://github.com/user-attachments/assets/98bf3f38-3f0a-4678-956e-bb9435c2d643)
-![](https://github.com/user-attachments/assets/ae376a82-ae2c-405a-b9f1-bc2f4f141e14)
-![](https://github.com/user-attachments/assets/783ed0da-b326-4344-b41b-31b21ebbb745)
-> 但斌：与伟大企业同行，欣赏及享受时间的玫瑰
 
 ---
 
@@ -222,6 +223,63 @@
 ![](https://github.com/user-attachments/assets/f848299b-870e-4a73-9126-a6300561f167)
 > 选择大于努力，趋势大于选择
 
+```趋势
+
+2025-2026关键领域趋势判断：
+1、向西与向海：中国正通过西部超级工程与海洋经济并进，陆海并举，重塑经济地理版图。
+2、统一大市场：全国统一大市场加速推进，将加速区域分化，城市发展逐渐转向由功能定位决定发展空间。
+3、教育重置：教育正经历杠杆、产业、性价比和资源配置的系统性重置，路径选择更为分化。
+4、AI冲击：AI替代将在2026年日益显化，入门岗位、青年群体和大龄劳动者，明显承压。
+5、中产职业收缩：教师、医生、金融与程序员等群体，正进入结构性收缩通道。
+6、房地产软着陆：房地产整体以防急跌、稳交易为政策主线，通过时间换空间实现缓慢调整。
+
+```
+
+---
+
+```
+
+段永平投资核心：以 “价值创造” 与 “长期主义” 为核心，靠认知赚企业成长的 “慢钱”，“克制” 与 “清醒” 是成功密码。
+
+核心逻辑与原则
+投资本质：买股票 = 做企业股东，赚公司内在价值增长的钱，而非短期股价波动。
+安全前提：守好能力圈（不懂不投），深度理解企业的生意模式、文化及现金流是关键。
+核心标尺：用未来现金流折现评估价值，好公司（对的生意 + 对的人）比好价格更重要。
+
+关键动作
+长期主义：以 10 年维度持有，像 “种田” 般耐心等待。
+逆向操作：别人恐慌时加仓（价格低估），狂热时离场（价格高估）。
+理性聚焦：控制情绪，集中投资于高置信标的。
+
+底层逻辑
+做对的事（选好公司、不做空 / 加杠杆），把事做对（错投及时止损），不追热点，只琢磨生意本质。
+
+```
+
+![](https://github.com/user-attachments/assets/6f0287f6-56bf-462b-a625-e439503e735d)
+![](https://github.com/user-attachments/assets/5d13935c-04c4-4684-abb5-9af812532634)
+![](https://github.com/user-attachments/assets/ecc51b63-39b2-4fa0-b78f-e3cc563d8fe4)
+![](https://github.com/user-attachments/assets/e19f339f-639b-4f95-83c2-2bdf8f060d06)
+> 段永平：生意模式（未来现金流） + 企业文化（本分） + 合适价格（定投）
+
+
+![](https://github.com/user-attachments/assets/9087bdde-710f-4cb6-858b-e356395b35c8)
+![](https://github.com/user-attachments/assets/1433f031-f418-41a1-8417-c2d6dfa56f70)
+![](https://github.com/user-attachments/assets/61cc6f73-942f-44cc-a81f-b53f7e72d48c)
+![](https://github.com/user-attachments/assets/25a98500-d595-42e5-a5d6-f9245c422bfc)
+![](https://github.com/user-attachments/assets/493beaa2-8128-4ff8-b44d-88de573dc690)
+![](https://github.com/user-attachments/assets/3f3792e9-ecf7-496d-94d2-35753dfe1176)
+![](https://github.com/user-attachments/assets/98bf3f38-3f0a-4678-956e-bb9435c2d643)
+![](https://github.com/user-attachments/assets/ae376a82-ae2c-405a-b9f1-bc2f4f141e14)
+![](https://github.com/user-attachments/assets/783ed0da-b326-4344-b41b-31b21ebbb745)
+> 但斌：与伟大企业同行，欣赏及享受时间的玫瑰
+
+```
+李笑来，段永平（大道），吴军，但斌，Guru（陈守红），蔡钰
+香帅，何刚，任泽平，吴晓波，顾均辉，Ray Dalio
+薛兆丰，吴伯凡，刘润，小Lin说，卢克文，王烁
+```
+
 ---
 
 1. [李笑来](https://lixiaolai.com/#/)
@@ -239,4 +297,3 @@
 13. [元宝](https://yuanbao.tencent.com/chat/)
 14. [豆包](https://www.doubao.com/chat/)
 15. [MiniMax](https://agent.minimax.io/)
-16. [大模型构建 HTML 工具的实用方法](https://simonwillison.net/2025/Dec/10/html-tools/)

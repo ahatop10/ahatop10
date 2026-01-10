@@ -235,6 +235,68 @@ TSM台积电
 
 ```
 
+
+---
+
+
+```ALL IN AI
+
+选对而非便宜
+集中而非太散
+定投而非择机
+3年以上5年再看
+
+轻资产高盈利的平台型企业
+
+谷歌
+英伟达
+苹果
+
+阿里巴巴
+百度
+
+微软
+META
+台积电
+
+宁德时代
+理想汽车
+
+
+```
+
+
+![](https://github.com/user-attachments/assets/6f8b91e4-fa2b-4807-a819-6705f49d407e)
+> [GOOGL](https://xueqiu.com/S/GOOGL)
+
+![](https://github.com/user-attachments/assets/f8b74105-d87b-4e20-a595-253096738c1b)
+> [NVDA](https://xueqiu.com/S/NVDA)
+
+![](https://github.com/user-attachments/assets/825cf3c1-11bd-45ab-8789-85f35f8f52d5)
+> [AAPL](https://xueqiu.com/S/AAPL)
+
+
+![](https://github.com/user-attachments/assets/e01c18a8-9420-4605-aa16-6566f868e57f)
+> [BABA](https://xueqiu.com/S/BABA)
+
+![](https://github.com/user-attachments/assets/94b42063-0223-4773-bd26-1837569eca67)
+> [BIDU](https://xueqiu.com/S/BIDU)
+
+![](https://github.com/user-attachments/assets/6f424123-4fb8-4c3b-bcac-c2b14a5ba9c4)
+> [MSFT](https://xueqiu.com/S/MSFT)
+
+![](https://github.com/user-attachments/assets/c9eb1982-5ff3-4114-a531-418abb000879)
+> [META](https://xueqiu.com/S/META)
+
+![](https://github.com/user-attachments/assets/22bc6cc3-5dfd-4db4-b2ba-30281868d1cd)
+> [TSM](https://xueqiu.com/S/TSM)
+
+![](https://github.com/user-attachments/assets/df9251f9-c817-483f-bea5-e76d132108a2)
+> [SZ300750，宁德时代](https://xueqiu.com/S/SZ300750)
+
+![](https://github.com/user-attachments/assets/994639ae-e4a8-494a-9dab-77fc35f11099)
+> [02015，理想汽车](https://xueqiu.com/S/02015)
+
 ---
 
 ```
@@ -273,6 +335,7 @@ TSM台积电
 ![](https://github.com/user-attachments/assets/ae376a82-ae2c-405a-b9f1-bc2f4f141e14)
 ![](https://github.com/user-attachments/assets/783ed0da-b326-4344-b41b-31b21ebbb745)
 > 但斌：与伟大企业同行，欣赏及享受时间的玫瑰
+
 
 ```
 李笑来，段永平（大道），吴军，但斌，Guru（陈守红），蔡钰

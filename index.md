@@ -248,6 +248,8 @@ TSM台积电
 ![](https://github.com/user-attachments/assets/9a8f8e2a-f018-48f9-947b-7281e34a34a3)
 > AI时代席卷而来...
 
+---
+
 ```ALL IN AI
 
 选对而非便宜
@@ -326,6 +328,8 @@ META
 做对的事（选好公司、不做空 / 加杠杆），把事做对（错投及时止损），不追热点，只琢磨生意本质。
 
 ```
+
+---
 
 ![](https://github.com/user-attachments/assets/6f0287f6-56bf-462b-a625-e439503e735d)
 ![](https://github.com/user-attachments/assets/5d13935c-04c4-4684-abb5-9af812532634)

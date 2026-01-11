@@ -246,9 +246,8 @@ TSM台积电
 
 
 ![](https://github.com/user-attachments/assets/9a8f8e2a-f018-48f9-947b-7281e34a34a3)
-> AI时代席卷而来...
+> AI时代
 
----
 
 ```ALL IN AI
 
@@ -272,7 +271,6 @@ META
 
 宁德时代
 理想汽车
-
 
 ```
 
@@ -308,7 +306,6 @@ META
 ![](https://github.com/user-attachments/assets/994639ae-e4a8-494a-9dab-77fc35f11099)
 > [02015，理想汽车](https://xueqiu.com/S/02015)
 
----
 
 ```
 
@@ -329,7 +326,6 @@ META
 
 ```
 
----
 
 ![](https://github.com/user-attachments/assets/6f0287f6-56bf-462b-a625-e439503e735d)
 ![](https://github.com/user-attachments/assets/5d13935c-04c4-4684-abb5-9af812532634)

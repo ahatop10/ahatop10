@@ -239,6 +239,12 @@ TSM台积电
 ---
 
 
+![](https://github.com/user-attachments/assets/3a9c6180-6c74-407c-bb43-71588b657313)
+![](https://github.com/user-attachments/assets/0a9ecb15-f23d-4629-972e-2ca8a6d25466)
+![](https://github.com/user-attachments/assets/99ab7ea5-fe0e-4775-acdd-6e1212dfcb3b)
+> “Time in the market beats timing the market.” 市场里，时间将击败时机。
+
+
 ```ALL IN AI
 
 选对而非便宜

@@ -239,6 +239,10 @@ TSM台积电
 ![](https://github.com/user-attachments/assets/98bf3f38-3f0a-4678-956e-bb9435c2d643)
 ![](https://github.com/user-attachments/assets/ae376a82-ae2c-405a-b9f1-bc2f4f141e14)
 ![](https://github.com/user-attachments/assets/783ed0da-b326-4344-b41b-31b21ebbb745)
+
+
+![](https://github.com/user-attachments/assets/9fe92acb-e816-4d1c-97ef-55e10cf44540)
+![](https://github.com/user-attachments/assets/86d9d025-4880-4059-ba50-35110ce76b3d)
 > 但斌：与伟大企业同行，欣赏及享受时间的玫瑰
 
 

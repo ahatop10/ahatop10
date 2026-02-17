@@ -3,10 +3,36 @@
 > 健康、家人、工作，理性价值投资
 
 ![](https://github.com/user-attachments/assets/2c341521-5508-482d-b313-14405dac1d01)
+![](https://github.com/user-attachments/assets/663ed8b6-af15-4b91-bcaf-44c43c5bbe9b)
 > <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
 ![](https://github.com/user-attachments/assets/9dc258cf-a7f6-4027-a92b-bb06fbca88ec)
+![](https://github.com/user-attachments/assets/7dd76031-1bb8-4490-921a-ac2617ce608c)
+![](https://github.com/user-attachments/assets/17a3bc4d-bcc2-4e73-af27-06962128718c)
 > 资产配置决定长期收益
+
+```理念
+
+投资要找主因，不要被次要因子所干扰，不要被噪音所干扰
+投资要站在巨人的肩膀上去成长，但不能够刻舟求剑，他说什么就是什么
+要学习的是巴菲特先生，包括价值投资对商业模式、企业竞争力、护城河的思考方式
+投资有时候需要的不仅仅是智慧，还需要坚强的意志力，克服困难的勇气
+当机会出现在我们眼前的时候，往往容易被恐惧给占据
+（美股）前九次（暴跌）的一年后、三年后、五年后都是大涨。每次都是最好的历史机会
+标普500在过去98年的年化是多少？是6.6%左右
+从1971年成立到现在，纳指年化大概是11%左右
+人工智能时代大概率也是十年以上，不可能两年结束
+选择比努力重要得多，分清是结构性机会，还是系统性机会
+投资要去到波澜壮阔的方向上去选择
+要用一个十年、20年、30年的眼光去选择一些公司，去长期投资，去持有，才能够真正赚到100倍甚至更多
+纳斯达克从成立到现在，推动世界全球财富真正最重要的原因是什么呢？是技术进步
+几个时代— 电子硬件时代、互联网时代、移动互联网时代
+要投资于改变世界的公司和不被世界改变的公司
+
+
+
+
+```
 
 ![](https://github.com/user-attachments/assets/91f27bf8-1515-4849-96d3-28e6c8131dbb)
 > All in AI，轻资产、高盈利及平台性企业
@@ -23,7 +49,9 @@
 
 ```
 
-![](https://github.com/user-attachments/assets/f5be8f9e-f3a4-40a1-9758-f2d8c4ad3423)
+![](https://github.com/user-attachments/assets/5bdf0505-ea06-4747-bb2a-35fbcf57f2df)
+> 每次都是最好的历史机会，但是问题是当这个机会出现在我们眼前的时候，往往被恐惧给占据了
+
 ![](https://github.com/user-attachments/assets/8eb0c404-3d8d-4d29-ad49-67cbbc06bc0d)
 > 看主因（综合反对声音）而非次因，很执着但不固执
 

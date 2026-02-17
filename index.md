@@ -1,9 +1,12 @@
 
 ![](https://github.com/user-attachments/assets/a844874e-ccc7-4735-a89d-f0c7835a779d)
-> 健康、家人、工作，投资
+> 健康、家人、工作，理性价值投资
 
-![](https://github.com/user-attachments/assets/58e68d23-8f8c-4cc6-8eb0-5224626bcfc2)
+![](https://github.com/user-attachments/assets/2c341521-5508-482d-b313-14405dac1d01)
 > <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
+
+![](https://github.com/user-attachments/assets/9dc258cf-a7f6-4027-a92b-bb06fbca88ec)
+> 资产配置决定长期收益
 
 ![](https://github.com/user-attachments/assets/91f27bf8-1515-4849-96d3-28e6c8131dbb)
 > All in AI，轻资产、高盈利及平台性企业

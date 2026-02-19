@@ -2,6 +2,9 @@
 ![](https://github.com/user-attachments/assets/a844874e-ccc7-4735-a89d-f0c7835a779d)
 > 健康、家人、工作，理性价值投资
 
+![](https://github.com/user-attachments/assets/18835938-15ca-4013-aafe-e20c21a74337)
+> [少押注，押重注，有钱就陆续买](https://ri.firesbox.com/#/cn/)
+
 ![](https://github.com/user-attachments/assets/2c341521-5508-482d-b313-14405dac1d01)
 ![](https://github.com/user-attachments/assets/663ed8b6-af15-4b91-bcaf-44c43c5bbe9b)
 > <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...

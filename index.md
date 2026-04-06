@@ -1,6 +1,6 @@
 
 ![](https://github.com/user-attachments/assets/c081673c-3fc9-48db-a899-c2268502ca3d)
-> All in AI Agent
+> All in AI Agent 能体时代，趋势>选择>努力，生息资产
 
 ![](https://github.com/user-attachments/assets/a844874e-ccc7-4735-a89d-f0c7835a779d)
 > 健康、家人、工作，理性价值投资

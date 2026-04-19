@@ -1,4 +1,4 @@
-
+![](https://github.com/user-attachments/assets/a829c5ec-2cfe-4b36-912f-39ae19424299)
 ![](https://github.com/user-attachments/assets/c081673c-3fc9-48db-a899-c2268502ca3d)
 > All in AI Agent 能体时代，趋势>选择>努力，生息资产
 
@@ -53,8 +53,8 @@
 腾讯
 谷歌
 小米
+阿里巴巴
 美团
-理想
 苹果
 英伟达
 
@@ -65,21 +65,34 @@
 > 看主因（综合反对声音）而非次因，很执着但不固执
 
 ![](https://github.com/user-attachments/assets/68c8f790-da2d-444f-baba-ef64bd832263)
+![](https://github.com/user-attachments/assets/7d4e6d03-d217-474b-98d4-23ff0a8ed86d)
 > [ 腾讯控股 HK700 ](https://xueqiu.com/S/00700)
 
 
+
+
+
+
+
 ![](https://github.com/user-attachments/assets/07f6825d-d3f0-45ad-8a32-03a85207a07b)
+![]()
 > [ 谷歌 GOOGL ](https://xueqiu.com/S/GOOGL)  
 
 
 ![](https://github.com/user-attachments/assets/cb5f5264-01a7-47e4-bd7b-0b0a4f7bd12a)
 > [跟随但不盲从，关注趋势和主因](https://xueqiu.com/u/1102105103)
 
+
+
+
+
 ![](https://github.com/user-attachments/assets/f04c21b1-35ea-4134-85a3-1b6be5593447)
+![]()
 > [ 小米集团 HK1810 ](https://xueqiu.com/S/01810)  
 
 
 ![](https://github.com/user-attachments/assets/f643c5c3-3c77-4be9-8581-68588ae67915)
+![]()
 > [ 美团 HK3690 ](https://xueqiu.com/S/03690)   
 
 
@@ -88,10 +101,12 @@
 
 
 ![](https://github.com/user-attachments/assets/d33dca35-751c-44c6-bc7c-c961b2eb790a)
+![]()
 > [ 苹果 AAPL ](https://xueqiu.com/S/AAPL) 
 
 
 ![](https://github.com/user-attachments/assets/0438d3b3-05b6-47fc-9152-7819d811d00c)
+![]()
 > [ 英伟达 NVDA ](https://xueqiu.com/S/NVDA)
 
 

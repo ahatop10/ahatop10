@@ -62,14 +62,13 @@
 
 
 ![](https://github.com/user-attachments/assets/8eb0c404-3d8d-4d29-ad49-67cbbc06bc0d)
+![](https://github.com/user-attachments/assets/77784e35-8343-447d-9cd2-a977b0ca2568)
+![](https://github.com/user-attachments/assets/9e0c02f2-9953-4730-bcfa-ed70efc88fcf)
 > 看主因（综合反对声音）而非次因，很执着但不固执
 
 ![](https://github.com/user-attachments/assets/68c8f790-da2d-444f-baba-ef64bd832263)
 ![](https://github.com/user-attachments/assets/7d4e6d03-d217-474b-98d4-23ff0a8ed86d)
 > [ 腾讯控股 HK700 ](https://xueqiu.com/S/00700)
-
-
-
 
 
 
@@ -86,9 +85,13 @@
 
 
 
+
 ![](https://github.com/user-attachments/assets/f04c21b1-35ea-4134-85a3-1b6be5593447)
 ![]()
 > [ 小米集团 HK1810 ](https://xueqiu.com/S/01810)  
+
+
+
 
 
 ![](https://github.com/user-attachments/assets/f643c5c3-3c77-4be9-8581-68588ae67915)
@@ -96,13 +99,19 @@
 > [ 美团 HK3690 ](https://xueqiu.com/S/03690)   
 
 
-![](https://github.com/user-attachments/assets/d6e92c9b-d0e0-46b9-a080-674b5c60438d)
-> [ 理想汽车 HK2015  ](https://xueqiu.com/S/02015)  
+
+![](https://github.com/user-attachments/assets/2884a6d8-06c2-4ba5-8516-97a2c4dae070)
+> [ 阿里巴巴 HK:09988](https://xueqiu.com/S/09988)  
+
+
 
 
 ![](https://github.com/user-attachments/assets/d33dca35-751c-44c6-bc7c-c961b2eb790a)
 ![]()
 > [ 苹果 AAPL ](https://xueqiu.com/S/AAPL) 
+
+
+
 
 
 ![](https://github.com/user-attachments/assets/0438d3b3-05b6-47fc-9152-7819d811d00c)

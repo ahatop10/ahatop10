@@ -71,10 +71,8 @@
 > [ 腾讯控股 HK700 ](https://xueqiu.com/S/00700)
 
 
-
-
 ![](https://github.com/user-attachments/assets/07f6825d-d3f0-45ad-8a32-03a85207a07b)
-![]()
+![](https://github.com/user-attachments/assets/3b570980-514d-4fc3-abd3-d7c32eafa046)
 > [ 谷歌 GOOGL ](https://xueqiu.com/S/GOOGL)  
 
 
@@ -82,40 +80,23 @@
 > [跟随但不盲从，关注趋势和主因](https://xueqiu.com/u/1102105103)
 
 
-
-
-
-
 ![](https://github.com/user-attachments/assets/f04c21b1-35ea-4134-85a3-1b6be5593447)
-![]()
+![](https://github.com/user-attachments/assets/825ca990-b33d-4b85-9f1b-2d915efcb812)
 > [ 小米集团 HK1810 ](https://xueqiu.com/S/01810)  
 
-
-
-
-
 ![](https://github.com/user-attachments/assets/f643c5c3-3c77-4be9-8581-68588ae67915)
-![]()
+![](https://github.com/user-attachments/assets/27917036-811e-4a37-adbc-20f60ca0989a)
 > [ 美团 HK3690 ](https://xueqiu.com/S/03690)   
-
-
 
 ![](https://github.com/user-attachments/assets/2884a6d8-06c2-4ba5-8516-97a2c4dae070)
 > [ 阿里巴巴 HK:09988](https://xueqiu.com/S/09988)  
 
-
-
-
 ![](https://github.com/user-attachments/assets/d33dca35-751c-44c6-bc7c-c961b2eb790a)
-![]()
+![](https://github.com/user-attachments/assets/09f0b880-076e-4efe-bf46-e96f281c878d)
 > [ 苹果 AAPL ](https://xueqiu.com/S/AAPL) 
 
-
-
-
-
 ![](https://github.com/user-attachments/assets/0438d3b3-05b6-47fc-9152-7819d811d00c)
-![]()
+![](https://github.com/user-attachments/assets/7fd95a75-ea00-4301-8d46-83cb6ec00820)
 > [ 英伟达 NVDA ](https://xueqiu.com/S/NVDA)
 
 

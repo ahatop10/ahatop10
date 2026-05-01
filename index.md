@@ -46,6 +46,7 @@
 
 
 ![](https://github.com/user-attachments/assets/91f27bf8-1515-4849-96d3-28e6c8131dbb)
+![](https://github.com/user-attachments/assets/4096e4b8-f0b3-4f9c-87d3-25eef2eff1d8)
 > All in AI，轻资产、高盈利及平台性企业
 
 ```企业
@@ -131,6 +132,11 @@ T字型一横很长，但那竖很短，不行；
 
 ![](https://github.com/user-attachments/assets/65317c42-ab43-4ff4-b6bd-938c3e066c2a)
 > [但斌91亿元美股持仓出炉：大幅加仓谷歌至第一重仓股，英伟达退居次席](https://finance.eastmoney.com/a/202601283633789673.html)
+
+
+![](https://github.com/user-attachments/assets/d473fd7c-45d6-4e4f-b129-d4b0b2cda88e)
+![](https://github.com/user-attachments/assets/ef170ff5-83f4-4eb7-9e5b-c03f42f7bc96)
+> [2026年04月30日 但斌最新持仓：加仓谷歌 新进台积电、美光](https://news.qq.com/rain/a/20260430A05XRG00)
 
 ---
 

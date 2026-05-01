@@ -1,4 +1,7 @@
 ![](https://github.com/user-attachments/assets/a829c5ec-2cfe-4b36-912f-39ae19424299)
+![](https://github.com/user-attachments/assets/4424c45a-6524-4cda-b423-8061fcae23c1)
+> 从🦞到🐎，持续迭代进化
+
 ![](https://github.com/user-attachments/assets/c081673c-3fc9-48db-a899-c2268502ca3d)
 > All in AI Agent 能体时代，趋势>选择>努力，生息资产
 

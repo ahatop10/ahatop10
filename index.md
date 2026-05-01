@@ -138,7 +138,7 @@ T字型一横很长，但那竖很短，不行；
 
 
 ![](https://github.com/user-attachments/assets/d473fd7c-45d6-4e4f-b129-d4b0b2cda88e)
-![](https://github.com/user-attachments/assets/ef170ff5-83f4-4eb7-9e5b-c03f42f7bc96)
+![](https://github.com/user-attachments/assets/e072e207-809d-4990-99f2-2190c9d558d5)
 > [2026年04月30日 但斌最新持仓：加仓谷歌 新进台积电、美光](https://news.qq.com/rain/a/20260430A05XRG00)
 
 ---

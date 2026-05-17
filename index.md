@@ -186,6 +186,13 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/a072f345-04c2-47e2-9d09-4640d9e2a7d9)
 > [坚持该坚持的底层信仰，调整该优化的布局节奏，守正不移、应变有度](https://xueqiu.com/u/1102105103)
 
+![](https://github.com/user-attachments/assets/8f423153-265c-4c7d-a35a-e26795951925)
+![](https://github.com/user-attachments/assets/b43e624a-3519-4890-bca5-36b14f9d6255)
+> [5月15日，伯克希尔向美国证监会提交了“后巴菲特时代”的首份13F季报，由大举加仓了谷歌，其中将谷歌A买成第七大重仓股，并清仓亚马逊、VISA等。](https://www.stcn.com/article/detail/3912305.html)
+
+![](https://github.com/user-attachments/assets/30e6b68d-5a57-4e00-81ad-600a3be9f596)
+> [未来科技赛道的核心机会，早已从硬件消费，转移到人工智能的底层算力与生态布局之中。](https://www.toutiao.com/w/1865319633298442/)
+
 ![](https://github.com/user-attachments/assets/9dc3eb9f-da71-4da2-9135-27dc2be3dea2)
 ![](https://github.com/user-attachments/assets/b1165212-44a2-48ed-a0be-f108eb6cec64)
 > [段永平2025Q4持仓明细-新建仓3只AI股票](https://xueqiu.com/6490468241/376404042)

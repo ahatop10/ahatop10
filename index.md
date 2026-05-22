@@ -197,6 +197,10 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/b1165212-44a2-48ed-a0be-f108eb6cec64)
 > [段永平2025Q4持仓明细-新建仓3只AI股票](https://xueqiu.com/6490468241/376404042)
 
+
+![](https://github.com/user-attachments/assets/c4618d86-3d76-4289-896f-81132df62f74)
+> [一季度段永平大举建仓特斯拉，还大幅加仓英伟达、拼多多、谷歌、伯克希尔B股，继续减持苹果、西方石油，并清仓阿里巴巴、阿斯麦等公司](https://wallstreetcn.com/articles/3772698)
+
 ![](https://github.com/user-attachments/assets/65317c42-ab43-4ff4-b6bd-938c3e066c2a)
 > [但斌91亿元美股持仓出炉：大幅加仓谷歌至第一重仓股，英伟达退居次席](https://finance.eastmoney.com/a/202601283633789673.html)
 

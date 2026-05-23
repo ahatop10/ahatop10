@@ -12,6 +12,8 @@
 > [投资只能用闲钱](https://ri.firesbox.com/#/cn/)
 
 ![](https://github.com/user-attachments/assets/18835938-15ca-4013-aafe-e20c21a74337)
+![](https://github.com/user-attachments/assets/3b062d88-8774-4afb-b31a-8d0d219352ce)
+![](https://github.com/user-attachments/assets/09c2bee6-7dbd-492a-9edd-4e3e26c3bcde)
 > [少押注，押重注，有钱就陆续买](https://ri.firesbox.com/#/cn/)
 
 ![](https://github.com/user-attachments/assets/2c341521-5508-482d-b313-14405dac1d01)
@@ -129,6 +131,8 @@
 
 ![](https://github.com/user-attachments/assets/68c8f790-da2d-444f-baba-ef64bd832263)
 ![](https://github.com/user-attachments/assets/7d4e6d03-d217-474b-98d4-23ff0a8ed86d)
+
+
 > [ 腾讯控股 HK700 ](https://xueqiu.com/S/00700)
 
 

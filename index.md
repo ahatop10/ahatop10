@@ -98,12 +98,12 @@
 
 ```
 
-![](https://github.com/user-attachments/assets/663ed8b6-af15-4b91-bcaf-44c43c5bbe9b)
+![](https://github.com/user-attachments/assets/b8a2e7e8-e9bb-4de0-8bfd-9ca35ae4a62d)
+![](https://github.com/user-attachments/assets/feee0695-0381-4561-926d-700e3728a946)
 > <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
 ![](https://github.com/user-attachments/assets/9dc258cf-a7f6-4027-a92b-bb06fbca88ec)
-![](https://github.com/user-attachments/assets/7dd76031-1bb8-4490-921a-ac2617ce608c)
-![](https://github.com/user-attachments/assets/17a3bc4d-bcc2-4e73-af27-06962128718c)
+![](https://github.com/user-attachments/assets/3a74d788-3825-410e-8314-96c5681b07ec)
 > 资产配置决定长期收益，知道、学到、想到，都没用，到最后，只有做到才算数。
 
 
@@ -134,6 +134,19 @@
 ![](https://github.com/user-attachments/assets/1c16e75f-2a17-44fe-9c96-723f989bd395)
 > [ 腾讯控股 HK700 ](https://xueqiu.com/S/00700)
 
+
+![](https://github.com/user-attachments/assets/8c7582a2-a797-46b1-810a-fbe76c6cf08a)
+![](https://github.com/user-attachments/assets/3ad8cd08-cf91-4b80-b435-4573d7d1d9a8)
+![](https://github.com/user-attachments/assets/3c8e4702-6279-41de-be82-a817e9522681)
+![](https://github.com/user-attachments/assets/d6f12b06-09ac-4744-a5f3-36fb4766d8e9)
+![](https://github.com/user-attachments/assets/e1efcf1c-1d02-445a-8feb-f6d6b1248729)
+![](https://github.com/user-attachments/assets/f8a9875c-2584-44cd-ab62-593f82596165)
+![](https://github.com/user-attachments/assets/90823570-34c5-4f2d-9a79-0dbafc0fafc9)
+![](https://github.com/user-attachments/assets/d1ac8dcf-18d5-47fd-8873-421af410353e)
+![](https://github.com/user-attachments/assets/300cf5e9-7acb-4747-ba46-b64270834b4b)
+![](https://github.com/user-attachments/assets/8a9c62aa-ebb2-4d3f-b1cd-b70a3e949462)
+![](https://github.com/user-attachments/assets/0bb8109c-cc74-4d4d-917e-faa22081eb73)
+> 公司投资价值评估模型：行业、管理及运营
 
 ![](https://github.com/user-attachments/assets/07f6825d-d3f0-45ad-8a32-03a85207a07b)
 ![](https://github.com/user-attachments/assets/3b570980-514d-4fc3-abd3-d7c32eafa046)

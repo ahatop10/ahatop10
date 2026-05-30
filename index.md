@@ -1,5 +1,10 @@
+
+![](https://github.com/user-attachments/assets/b82eda36-7db6-4a9a-8a41-dc067857dd8e)
+> 价值投资，知行合一
+
 ![](https://github.com/user-attachments/assets/a829c5ec-2cfe-4b36-912f-39ae19424299)
 ![](https://github.com/user-attachments/assets/4424c45a-6524-4cda-b423-8061fcae23c1)
+![](https://github.com/user-attachments/assets/e91f5cb3-fd1c-4cb6-811e-2ed4e5792e3c)
 > 从🦞到🐎，持续迭代进化
 
 ![](https://github.com/user-attachments/assets/c081673c-3fc9-48db-a899-c2268502ca3d)

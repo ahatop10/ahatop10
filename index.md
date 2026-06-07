@@ -1,5 +1,7 @@
 
 ![](https://github.com/user-attachments/assets/b82eda36-7db6-4a9a-8a41-dc067857dd8e)
+![](https://github.com/user-attachments/assets/9a6a1ab9-a4d7-411a-a37a-539ff0d30b92)
+![](https://github.com/user-attachments/assets/87d8234e-3d3d-4d41-a0a9-c3ff00625812)
 > 价值投资，知行合一
 
 ![](https://github.com/user-attachments/assets/a829c5ec-2cfe-4b36-912f-39ae19424299)

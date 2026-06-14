@@ -1,4 +1,8 @@
 
+
+![](https://github.com/user-attachments/assets/519c5c39-7300-4118-84f8-e4489c32cfeb)
+> Follow your heart, follow me.
+
 ![](https://github.com/user-attachments/assets/b82eda36-7db6-4a9a-8a41-dc067857dd8e)
 ![](https://github.com/user-attachments/assets/9a6a1ab9-a4d7-411a-a37a-539ff0d30b92)
 ![](https://github.com/user-attachments/assets/87d8234e-3d3d-4d41-a0a9-c3ff00625812)

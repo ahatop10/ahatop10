@@ -3,7 +3,7 @@
 > 本金，利率及时长
 
 ![](https://github.com/user-attachments/assets/ac21df9f-bd43-4802-b1e6-2aecee0e7abc)
-> All in AI，轻资产、高盈利及平台性企业，做对的事情比勤奋更重要，选择优于努力。
+> All in AI， 轻资产、高盈利及平台性企业，做对的事情比勤奋更重要，选择优于努力。
 
 ```资产配置
 

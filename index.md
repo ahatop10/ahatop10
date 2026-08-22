@@ -1,6 +1,6 @@
 
 ![](https://github.com/user-attachments/assets/4f878fef-11fb-4d49-92fc-904ddd85d0d6)
-> 本金，利率及时长
+> 理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
 ![](https://github.com/user-attachments/assets/ac21df9f-bd43-4802-b1e6-2aecee0e7abc)
 > All in AI， 轻资产、高盈利及平台性企业，做对的事情比勤奋更重要，选择优于努力。
@@ -27,7 +27,7 @@
 
 
 ![](https://github.com/user-attachments/assets/b4c26285-92b3-4150-9d7c-b1ebac8893c2)
-> 健康、家人、工作，理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
+> 健康、家人、工作、投资
 
 ![](https://github.com/user-attachments/assets/fa0c024e-3d1d-4057-9f6c-32cc0bf1ae3c)
 > 股东思维：长期定投好公司（谷歌、苹果、英伟达；腾讯、小米、阿里，美团...）

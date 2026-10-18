@@ -3,6 +3,7 @@
 > 理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
 ![](https://github.com/user-attachments/assets/ac21df9f-bd43-4802-b1e6-2aecee0e7abc)
+![](https://github.com/user-attachments/assets/a1482392-48bc-4fd9-9a59-99f93203af04)
 > All in AI， 轻资产、高盈利及平台性企业，做对的事情比勤奋更重要，选择优于努力。
 
 ```资产配置

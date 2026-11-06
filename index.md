@@ -1,5 +1,5 @@
 
-![](https://github.com/user-attachments/assets/4f878fef-11fb-4d49-92fc-904ddd85d0d6)
+![](https://github.com/user-attachments/assets/03ccd2c3-7f56-4837-bf3b-629dcc69bad1)
 > 理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
 ![](https://github.com/user-attachments/assets/ac21df9f-bd43-4802-b1e6-2aecee0e7abc)

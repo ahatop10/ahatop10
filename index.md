@@ -4,8 +4,8 @@
 
 ![](https://github.com/user-attachments/assets/ac21df9f-bd43-4802-b1e6-2aecee0e7abc)
 ![]()
-![](https://github.com/user-attachments/assets/a1482392-48bc-4fd9-9a59-99f93203af04)
-![]()
+
+
 > All in AI， 轻资产、高盈利及平台性企业，做对的事情比勤奋更重要，选择优于努力。
 
 ```资产配置
@@ -29,16 +29,8 @@
 ```
 
 
-![](https://github.com/user-attachments/assets/b4c26285-92b3-4150-9d7c-b1ebac8893c2)
-
+![](https://github.com/user-attachments/assets/616a5d9c-aebb-4cc9-b984-9c1b0a75ec7e)
 ![](https://github.com/user-attachments/assets/b74f4b24-e228-4519-b0e0-2aed025478af)
-![]()
-
-
-
-
-
-
 > 健康、家人、工作、投资
 
 

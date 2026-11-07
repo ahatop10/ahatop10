@@ -33,9 +33,8 @@
 ![]()
 > 健康、家人、工作、投资
 
-![](https://github.com/user-attachments/assets/fa0c024e-3d1d-4057-9f6c-32cc0bf1ae3c)
-![]()
 
+![](https://github.com/user-attachments/assets/0292b492-1cca-434b-abcf-e11535912b09)
 > 股东思维：长期定投好公司（谷歌、苹果、英伟达；腾讯、小米、阿里，美团...）
 
 

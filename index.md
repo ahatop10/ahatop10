@@ -1,4 +1,8 @@
 
+
+![](https://github.com/user-attachments/assets/e54c9d75-91f4-44aa-8454-575ab33db8a5)
+> 健康、家人、工作、投资
+
 ![](https://github.com/user-attachments/assets/03ccd2c3-7f56-4837-bf3b-629dcc69bad1)
 > 理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
@@ -29,7 +33,7 @@
 
 ![](https://github.com/user-attachments/assets/616a5d9c-aebb-4cc9-b984-9c1b0a75ec7e)
 ![](https://github.com/user-attachments/assets/b74f4b24-e228-4519-b0e0-2aed025478af)
-> 健康、家人、工作、投资
+> AI 时代，席卷而来，会有波折，但大势所趋
 
 
 ![](https://github.com/user-attachments/assets/0292b492-1cca-434b-abcf-e11535912b09)

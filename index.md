@@ -3,6 +3,9 @@
 ![](https://github.com/user-attachments/assets/e54c9d75-91f4-44aa-8454-575ab33db8a5)
 > 健康、家人、工作、投资
 
+![](https://github.com/user-attachments/assets/648006ae-1f1b-4348-90f2-b4eb3e597392)
+> 是否真的能够用得着？
+
 ![](https://github.com/user-attachments/assets/03ccd2c3-7f56-4837-bf3b-629dcc69bad1)
 > 理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
 
